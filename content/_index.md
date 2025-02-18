@@ -1,3 +1,2 @@
 +++
-title = "The Marshy Garden"
 +++
