@@ -1,0 +1,71 @@
+{{ define "main" }}
+<main class="site-main page type-page status-publish hentry" id="content">
+
+
+    <div class="page-content">
+        <div class="elementor" data-elementor-post-type="page">
+            <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-87f0eaf elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7b2d887"
+                         data-element_type="column" >
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-5622281 elementor-widget elementor-widget-image"
+                                 data-element_type="widget" data-widget_type="image.default">
+                                <div class="elementor-widget-container">
+                                    <h3 class="elementor-heading-title"
+                                        style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 54px; color: white;"
+                                    >Calendar 2025</h3></div>
+                                    <img alt="" class="attachment-full size-full wp-image-1316" decoding="async" fetchpriority="high"
+                                         height="581"
+                                         sizes="(max-width: 1600px) 100vw, 1600px"
+                                         src='{{ "img/2022/11/calendartop.jpg" | relURL }}'
+                                         width="1600"/></div>
+                                    <p>For more information, contact <a href="mailto:lehmanna107@gmail.com">lehmanna107@gmail.com</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            {{ range (where .Pages ".Params.unlisted" "!=" "true") }}
+            <section
+                    class="elementor-section elementor-top-section elementor-element elementor-element-f7309c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-44e1c46"
+                         data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-widget-container">
+                                {{ if .Param "Image" }}
+                                <img src="{{ .Params.Image }}" width="595">
+                                {{ end  }}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f065b6a"
+                         data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-01f6b40 elementor-widget elementor-widget-text-editor"
+                                 data-element_type="widget">
+                                <div>
+                                    {{ $d := .Date.Local }}
+                                    <h4><a href="{{ .Params.Link }}">
+                                        {{ $d.AddDate 0 0 1 | dateFormat "Jan 2" }} - {{ $d.AddDate 0 0 8 | dateFormat "Jan 2"}}
+                                        </a>
+                                    </h4>
+                                    {{ .Summary }}
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            {{ end }}
+
+        </div>
+    </div>
+</main>
+{{ end }}

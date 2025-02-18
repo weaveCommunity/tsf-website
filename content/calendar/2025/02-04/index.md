@@ -1,0 +1,14 @@
++++
+Date = 2025-02-04
+link = "https://groups.google.com/g/soil-factory-network/c/OP838HxFl6Y/m/RREXi3MYEQAJ"
+image = "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1es-YbWdm2uvllNHe7hf2suaF9G9_pSat4cJPdbXLB7ChFh7IuxetseKy2yvIjj4PgfORfUnXPNa_-ZE-EcUUHUtYshZFYw--5Cvnc6p-Sa5C452ZDkik_2Zl0Lc-O4bwlp8vFg?key=ha9nVdkhCzLsiWQlKME6cCmh"
++++
+
+**Thursday February 6**, Shawn Shafner: m3Ditation: A Practice for Integrating Mind, Body and Voice 5:30-6:30PM \
+**Thursday February 6**, Shawn Shafner film screening: Flush, followed by panel discussion 7-9PM \
+**Friday February 7**, Movie Night 7PM \
+**Saturday February 8**, Darkroom: Intro and Open Studio 12-3:30PM \
+**Sunday February 9**, Natural Dye Potluck 1-4PM (limited spots, please register ahead of time) \
+**Monday February 10**, Nuts and Bolts 6-7:30PM
+
+<!--more-->
