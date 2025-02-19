@@ -1,78 +1,116 @@
 <!doctype html>
 <html lang="en-US">
 
-    {{ block "head" . }}
-    <meta content="text/html;charset=UTF-8" http-equiv="content-type"/>
-    <head>
-        <meta charset="utf-8">
-        <meta name="description" content="{{ .Site.Params.Description }}">
-        <meta name="author" content="{{ .Site.Params.Author }}">
-        <meta name="viewport" content="width=device-width">
-        <meta name="robots" content="index, follow">
-        {{ if isset .Params "title" }}
-        <title>{{ .Params.title }} | {{ .Site.Title }}</title>
-        {{ else }}
-        <title>{{ .Site.Title }}</title>
-        {{ end }}
-
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css"
-              rel="stylesheet"/>
-        <link href='{{ "css/style.min9b70.css" | relURL }}?ver=3.3.0' id='hello-elementor-css' media='all'
-              rel='stylesheet'/>
-        <link href='{{ "css/theme.min9b70.css" | relURL }}?ver=3.3.0' id='hello-elementor-theme-style-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/header-footer.min9b70.css" | relURL }}?ver=3.3.0' id='hello-elementor-header-footer-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/frontend.min3830.css" | relURL }}?ver=3.27.4' id='elementor-frontend-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/widget-heading.min3830.css" | relURL }}?ver=3.27.4' id='widget-heading-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/widget-text-editor.min3830.css" | relURL }}?ver=3.27.4' id='widget-text-editor-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/widget-nav-menu.mine689.css" | relURL }}?ver=3.27.3' id='widget-nav-menu-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/widget-divider.min3830.css" | relURL }}?ver=3.27.4' id='widget-divider-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/widget-image.min3830.css" | relURL }}?ver=3.27.4' id='widget-image-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/post-56c1b.css" | relURL }}?ver=1734686180' id='elementor-post-5-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/post-136c1b.css" | relURL }}?ver=1734686180' id='elementor-post-13-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/post-866c1b.css" | relURL }}?ver=1734686180' id='elementor-post-86-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/post-1434f420.css" | relURL }}?ver=1734686181' id='elementor-post-1434-css'
-              media='all' rel='stylesheet'/>
-        <link href='{{ "css/google-fonts-roboto.css" | relURL }}' id='google-fonts-1-css'  media='all' rel='stylesheet'/>
-
-        <style>
-            a { color: #CC3366; }
-            h1 { color: #578740; }
-            h2 { color: #578740; }
-            h3 { color: #578740; }
-
-            .dropdown:hover .dropdown-menu {
-                display: block;
-                margin-top: 0; /* remove the gap so it doesn't close */
-            }
-        </style>
-    </head>
+{{ block "head" . }}
+<meta content="text/html;charset=UTF-8" http-equiv="content-type"/>
+<head>
+    <meta charset="utf-8">
+    <meta content="{{ .Site.Params.Description }}" name="description">
+    <meta content="{{ .Site.Params.Author }}" name="author">
+    <meta content="width=device-width" name="viewport">
+    <meta content="index, follow" name="robots">
+    {{ if isset .Params "title" }}
+    <title>{{ .Params.title }} | {{ .Site.Title }}</title>
+    {{ else }}
+    <title>{{ .Site.Title }}</title>
     {{ end }}
 
-    {{ block "body" . }}
-    <body class="home page-template-default page wp-embed-responsive theme-default elementor-default elementor-kit-5 elementor-page elementor-page-13">
-        {{ block "navbar" .  }}
-        {{ partial "nav.html" }}
-        {{ end }}
-        {{ block "main" . }}
-        {{ end }}
-        {{ block "footer" .  }}
-        {{ partial "footer.html" . }}
-        {{ end }}
-        {{ block "javascript" . }}
-        {{ partial "javascript.html" . }}
-        {{ end }}
-    </body>
-    {{ end }}
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css"
+          rel="stylesheet"/>
+    <link href='{{ "css/style.min9b70.css" | relURL }}?ver=3.3.0' id='hello-elementor-css' media='all'
+          rel='stylesheet'/>
+    <link href='{{ "css/theme.min9b70.css" | relURL }}?ver=3.3.0' id='hello-elementor-theme-style-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/header-footer.min9b70.css" | relURL }}?ver=3.3.0' id='hello-elementor-header-footer-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/frontend.min3830.css" | relURL }}?ver=3.27.4' id='elementor-frontend-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/widget-heading.min3830.css" | relURL }}?ver=3.27.4' id='widget-heading-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/widget-text-editor.min3830.css" | relURL }}?ver=3.27.4' id='widget-text-editor-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/widget-nav-menu.mine689.css" | relURL }}?ver=3.27.3' id='widget-nav-menu-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/widget-divider.min3830.css" | relURL }}?ver=3.27.4' id='widget-divider-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/widget-image.min3830.css" | relURL }}?ver=3.27.4' id='widget-image-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/post-56c1b.css" | relURL }}?ver=1734686180' id='elementor-post-5-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/post-136c1b.css" | relURL }}?ver=1734686180' id='elementor-post-13-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/post-866c1b.css" | relURL }}?ver=1734686180' id='elementor-post-86-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/post-1434f420.css" | relURL }}?ver=1734686181' id='elementor-post-1434-css'
+          media='all' rel='stylesheet'/>
+    <link href='{{ "css/google-fonts-roboto.css" | relURL }}' id='google-fonts-1-css' media='all' rel='stylesheet'/>
+
+    <style>
+        a {
+            color: #CC3366;
+        }
+
+        button:hover {
+            background: #61CE70;
+        }
+
+        button:focus {
+            background: #61CE70;
+        }
+
+        .dropdown-item.active {
+            background: #61CE70;
+        }
+
+        .dropdown-item:focus {
+            background: #61CE70;
+        }
+
+        button.navbar-toggler {
+            border: darkgray;
+        }
+
+        button.navbar-toggler:hover {
+            background: darkgray;
+        }
+
+        button.navbar-toggler:focus {
+            background: darkgray;
+        }
+
+        .navbar-nav .nav-link.active {
+            color: #61CE70;
+        }
+
+        h1 {
+            color: #578740;
+        }
+
+        h2 {
+            color: #578740;
+        }
+
+        h3 {
+            color: #578740;
+        }
+    </style>
+</head>
+{{ end }}
+
+{{ block "body" . }}
+<body class="home page-template-default page wp-embed-responsive theme-default elementor-default elementor-kit-5 elementor-page elementor-page-13">
+{{ block "navbar" . }}
+{{ partial "nav.html" }}
+{{ end }}
+{{ block "main" . }}
+{{ end }}
+{{ block "footer" . }}
+{{ partial "footer.html" . }}
+{{ end }}
+{{ block "javascript" . }}
+{{ partial "javascript.html" . }}
+{{ end }}
+</body>
+{{ end }}
 
 </html>
