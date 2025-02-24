@@ -46,53 +46,77 @@
     <link href='{{ "css/google-fonts-roboto.css" | relURL }}' id='google-fonts-1-css' media='all' rel='stylesheet'/>
 
     <style>
-        a {
-            color: #CC3366;
-        }
+     a {
+         color: #CC3366;
+     }
 
-        button:hover {
-            background: #61CE70;
-        }
+     button:hover {
+         background: #61CE70;
+     }
 
-        button:focus {
-            background: #61CE70;
-        }
+     button:focus {
+         background: #61CE70;
+     }
 
-        .dropdown-item.active {
-            background: #61CE70;
-        }
+     .dropdown-item.active {
+         background: #61CE70;
+     }
 
-        .dropdown-item:focus {
-            background: #61CE70;
-        }
+     .dropdown-item:focus {
+         background: #61CE70;
+     }
 
-        button.navbar-toggler {
-            border: darkgray;
-        }
+     button.navbar-toggler {
+         border: darkgray;
+     }
 
-        button.navbar-toggler:hover {
-            background: darkgray;
-        }
+     button.navbar-toggler:hover {
+         background: darkgray;
+     }
 
-        button.navbar-toggler:focus {
-            background: darkgray;
-        }
+     button.navbar-toggler:focus {
+         background: darkgray;
+     }
 
-        .navbar-nav .nav-link.active {
-            color: #61CE70;
-        }
+     .navbar-nav .nav-link.active {
+         color: #61CE70;
+     }
 
-        h1 {
-            color: #578740;
-        }
+     h1 {
+         color: #578740;
+     }
 
-        h2 {
-            color: #578740;
-        }
+     h2 {
+         color: #578740;
+     }
 
-        h3 {
-            color: #578740;
-        }
+     h3 {
+         color: #578740;
+     }
+
+     .project-logo {
+         position: relative;
+         float: right;
+     }
+
+     .prow {
+         display:flex;
+         align-items: center;
+     }
+     .prow>div {
+         width:100%;
+     }
+     .container .prow:nth-child(2n+1) {
+         flex-direction:row-reverse
+     }
+     @media only screen and (max-width: 767px) {
+         .prow {
+             flex-direction: column;
+         }
+         .container .prow:nth-child(2n+1) {
+             flex-direction: column;
+         }
+     }
     </style>
 </head>
 {{ end }}

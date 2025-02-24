@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="container banner">
+    <div class="row g-4">
+        {{ if .Params.Image }}
+        <img src="{{ .Params.Image }}" style="object-fit:cover;height:600px;">
+        {{ end }}
+        <h3>{{ .Title }}</h3>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="container p-3">
+        {{ if .Params.Logo }}
+        {{ $logo := .Page.Resources.GetMatch .Params.Logo }}
+        <div class="project-logo">
+            <img style='max-width:250px' src="{{ $logo.Permalink }}">
+        </div>
+        {{ end }}
+        {{ .Content }}
+    </div>
+</div>
+{{ end }}

@@ -65,6 +65,16 @@ assets = "static"
     parent = 'Projects'
     weight = 15
   [[menus.main]]
+    name = 'Art Share'
+    pageRef = '/projects/art-share'
+    parent = 'Projects'
+    weight = 16
+  [[menus.main]]
+    name = 'Miyawaki Forest'
+    pageRef = '/projects/miyawaki-forest'
+    parent = 'Projects'
+    weight = 17
+  [[menus.main]]
     name = 'Calendar 2024'
     pageRef = '/calendar-2024'
     parent = 'Calendar'

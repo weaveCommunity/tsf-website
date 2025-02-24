@@ -1,0 +1,32 @@
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0527d81"
+     data-element_type="column" data-id="0527d81">
+    <div class="elementor-widget-wrap elementor-element-populated">
+        <div class="elementor-element elementor-element-bab7e09 elementor-widget elementor-widget-image"
+             data-element_type="widget" data-id="bab7e09"
+             data-widget_type="image.default">
+            <div class="elementor-widget-container">
+                {{ if .Param "Thumb" }}
+                {{ $image := .Page.Resources.GetMatch .Params.Thumb }}
+                <a href="{{ .Permalink }}">
+                    <img src="{{ $image.Permalink }}">
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-eb8301a"
+     data-element_type="column" data-id="eb8301a">
+    <div class="elementor-widget-wrap elementor-element-populated">
+        <div class="elementor-element elementor-element-2208cbe elementor-widget elementor-widget-text-editor"
+             data-element_type="widget" data-id="2208cbe"
+             data-widget_type="text-editor.default">
+            <div class="elementor-widget-container">
+                <a href="{{ .Permalink }}">
+                    <h5><strong>{{ .Title }}</strong></h5>
+                </a>
+                <p>{{ .Summary }}</p>
+            </div>
+        </div>
+    </div>
+</div>
