@@ -47,75 +47,80 @@
 
     <style>
      a {
-         color: #CC3366;
+       color: #CC3366;
      }
 
      button:hover {
-         background: #61CE70;
+       background: #61CE70;
      }
 
      button:focus {
-         background: #61CE70;
+       background: #61CE70;
      }
 
      .dropdown-item.active {
-         background: #61CE70;
+       background: #61CE70;
      }
 
      .dropdown-item:focus {
-         background: #61CE70;
+       background: #61CE70;
      }
 
      button.navbar-toggler {
-         border: darkgray;
+       border: darkgray;
      }
 
      button.navbar-toggler:hover {
-         background: darkgray;
+       background: darkgray;
      }
 
      button.navbar-toggler:focus {
-         background: darkgray;
+       background: darkgray;
      }
 
      .navbar-nav .nav-link.active {
-         color: #61CE70;
+       color: #61CE70;
      }
 
      h1 {
-         color: #578740;
+       color: #578740;
      }
 
      h2 {
-         color: #578740;
+       color: #578740;
      }
 
      h3 {
-         color: #578740;
+       color: #578740;
      }
 
      .project-logo {
-         position: relative;
-         float: right;
+       position: relative;
+       float: right;
+       max-width:300px
      }
 
      .prow {
-         display:flex;
-         align-items: center;
+       display:flex;
+       align-items: center;
      }
      .prow>div {
-         width:100%;
+       width:100%;
      }
      .container .prow:nth-child(2n+1) {
-         flex-direction:row-reverse
+       flex-direction:row-reverse
      }
      @media only screen and (max-width: 767px) {
-         .prow {
-             flex-direction: column;
-         }
-         .container .prow:nth-child(2n+1) {
-             flex-direction: column;
-         }
+       .prow {
+         flex-direction: column;
+       }
+       .container .prow:nth-child(2n+1) {
+         flex-direction: column;
+       }
+       .project-logo {
+         max-width:200px
+       }
+
      }
     </style>
 </head>
