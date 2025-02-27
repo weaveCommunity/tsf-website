@@ -16,12 +16,20 @@ A few years ago, the ecologist, Dr. Hannah Lewis, wrote Mini-Forest Revolution a
 
 {{< project-image src="img/Picture1.jpg" >}}
 **Measuring and Marking the Site**  
-Volunteers use measuring tape to assess the dimensions of the field in the early stages of planning. This step was critical to ensuring that the layout of the future mini forest adhered to the precise design.
+Volunteers use measuring tape to mark the dimensions of the future mini forest. The area was then covered with a black plastic tarp through the winter and spring.
+{{< /project-image >}}
+
+{{< project-image src="img/1.jpg" >}}
+In the fall, the tarp was rolled back and a protractor was placed in the center of the circle so the placement of the gate and 12 fence posts could be marked along the circumference.
+{{< /project-image >}}
+
+{{< project-image src="img/2.jpg" >}}
+The gate and fence posts were installed proir to the planting date, to make it easier for the crowd of volunteers to walk in and out of the future forest to fetch and plant the saplings on planting day.
 {{< /project-image >}}
 
 {{< project-image src="img/Picture2.jpg" >}}
 **Planning the Layout**  
-Flags were labelled with the 22 species to be planted, then the 288 flags were placed according to the planting design. 
+With the fence posts installed, and the outline of the fence marked with cardboard, flags labelled with the 22 species to be planted, were placed according to the planting design.
 {{< /project-image >}}
 
 {{< project-image src="img/Picture3.jpg" >}}
@@ -45,7 +53,10 @@ Coaches guided volunteers on the planting method. Each team applies a different 
 Volunteers work together, planting the designated species and carefully watering them with untreated well water.
 {{< /project-image >}}
 
-{{< project-image src="img/Picture7.jpg" >}}
-**Final Preparations Before Planting**  
-Blue tape divides the circle into 4 quadrants, each with the same species but different soil preparation. Flags show the future locations of 288 native trees and shrubs, as designed by landscape architect Daniel Meyer. This preparation was crucial to creating a balanced planting pattern.
+{{< project-image src="img/thumbnail.jpg" >}}
+With 288 trees and shrubs snugly planted, the 8 foot deer fence was rolled out around the posts, and a roll of 4 foot chicken wire was unrolled and  folded in half and fitted around the bottom to prevent underground entry. The fence was stabilized with 2 wires drawn through T-post insulators. One wire was attached near the top of each post and the other near the bottom. We found that 16 gauge aluminum electric fence wire worked well to be tighteneed with a line tightener.
+{{< /project-image >}}
+
+{{< project-image src="img/3.jpg" >}}
+To prepare for its first winter, the entire site was mulched with cardboard and wood chips.
 {{< /project-image >}}
