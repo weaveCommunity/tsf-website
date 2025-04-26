@@ -28,11 +28,13 @@
                             <div class="elementor-element elementor-element-16f54e4 elementor-widget elementor-widget-text-editor"
                                  data-element_type="widget" data-id="16f54e4" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-                                    <p>Get in touch with us to discuss your projects: <a
-                                            href="mailto:info@weavecommunity.org">info@weavecommunity.org</a></p>
-                                    <p>In addition to the calendar on this website, we have a mailing list that you can
-                                        sign up for by emailing <a href="mailto:info@weavecommunity.org">info@weavecommunity.org</a>
-                                        to receive updates.</p></div>
+                                    <p>
+                                        Get in touch with us to discuss your projects:
+                                        <a href="mailto:{{ .Site.Params.contact }}">{{ .Site.Params.contact }}</a>.
+                                        In addition to the calendar on this website, we have a mailing list that you can
+                                        sign up for by emailing us at the address above to receive updates.
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>
