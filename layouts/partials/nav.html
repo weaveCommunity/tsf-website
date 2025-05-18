@@ -53,23 +53,14 @@
                     {{- end }}
                 </ul>
 
-                <form class="d-flex">
-
-                    <div class="elementor-element elementor-element-1a054ff elementor-align-right elementor-mobile-align-center elementor-widget elementor-widget-button"
-                         data-element_type="widget" data-widget_type="button.default">
-                        <div class="elementor-widget-container">
-                            <div class="elementor-button-wrapper">
-                                <a class="elementor-button elementor-button-link elementor-size-sm"
-                                   href="{{ site.Params.paypal }}">
-                            <span class="elementor-button-content-wrapper">
-                                <span class="elementor-button-text">Donate!</span>
-                            </span>
-                                </a>
-                            </div>
-                        </div>
+                <div class="container" style="min-width: 250px;">
+                    <div class="d-flex justify-content-center p-2">
+                        <a class="btn btn-danger btn-lg" href="{{ site.Params.paypal }}"
+                           role="button" style="width:50%">
+                            Donate!
+                        </a>
                     </div>
-
-                </form>
+                </div>
 
             </div>
         </div>
