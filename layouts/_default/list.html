@@ -15,7 +15,8 @@
                             <div class="elementor-element elementor-element-c2eb959 elementor-widget elementor-widget-image"
                                  data-element_type="widget" data-id="c2eb959" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
-                                    <img alt="The Soil Factory" class="attachment-full size-full wp-image-15" decoding="async" fetchpriority="high"
+                                    <img alt="The Soil Factory" class="attachment-full size-full wp-image-15"
+                                         decoding="async" fetchpriority="high"
                                          height="1388"
                                          sizes="(max-width: 2560px) 100vw, 2560px"
                                          src='{{ "img/2022/04/IMG_0241-scaled-e1649019109746.jpg" | relURL }}'/>
@@ -40,16 +41,24 @@
                                             style="color: #000000;"><strong> place where everyone is welcome.</strong></span>
                                     </p>
                                     <p>
-                                        Join us for future events. See our <a href='{{ "calendar" | relURL }}'>Calendar</a>.
+                                        Join us for future events. See our <a
+                                            href='{{ "calendar" | relURL }}'>Calendar</a>.
                                         If you want to sign up for email announcements and join the community, email
                                         <a href="mailto:{{ .Site.Params.contact }}">{{ .Site.Params.contact }}</a>.
                                     </p>
-                                    <p>
+                                    <div class="card shadow">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Please consider supporting our cause!</h5>
+                                            <p>
                                         <span style="font-weight: 400;"><span style="color: #000000;"><strong>
                                             The Soil Factory is actively working to grow our community support.
                                         </strong></span>
-                                            If you would like to directly contribute to the programs, events, and projects we offer, please consider <a href='{{ site.Params.paypal }}'>becoming a monthly sustaining member</a>, or make a check out to Weave Community and mail it to the PO Box listed below.
-                                    </p>
+                                            If you would like to directly contribute to the programs, events, and projects we offer, please consider <a
+                                                    href='{{ site.Params.paypal }}'>becoming a monthly sustaining member</a>, or make a check out to Weave Community and mail it to the PO Box listed below. Thank you!
+                                            </p>
+                                        </div>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
