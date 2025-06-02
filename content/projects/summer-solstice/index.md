@@ -1,5 +1,5 @@
 +++
-title = "SUMMER SOLSTICE FESTIVAL"
+title = "SUMMER SOLSTICE FESTIVAL AT THE SOIL FACTORY"
 image = "img/banner.jpg"
 thumb = "img/banner.jpg"
 logo = "img/logo.jpg"
