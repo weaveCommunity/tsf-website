@@ -35,6 +35,10 @@ assets = "static"
     pageRef = '/contact-us'
     weight = 40
   [[menus.main]]
+    name = 'Donors'
+    pageRef = '/donors'
+    weight = 50
+  [[menus.main]]
     name = 'Movie Nights'
     pageRef = '/movie-nights'
     parent = 'Projects'
