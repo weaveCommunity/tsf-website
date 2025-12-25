@@ -1,0 +1,32 @@
+baseURL = "https://www.thesoilfactory.org"
+languageCode = "en-us"
+title = "The Soil Factory"
+disableKinds = ["taxonomy"]
+enableRobotsTXT = "true"
+summaryLength = 30
+[params]
+  description = "Exploring Art, Science, and Sustainability"
+  author = "WEAVE Community Inc."
+  paypal = "https://www.paypal.com/donate/?hosted_button_id=7MRNCBDV37CCG"
+  contact = "soilfactoryevents@gmail.com"
+  handle = "thesoilfactory"
+  subscribe = "https://groups.google.com/g/soil-factory-network"
+  copyright = "WEAVE Community Inc."
+  copyrighturl = "https://weavecommunity.org"
+[menus]
+  [[menus.main]]
+    name = 'What We Do'
+    pageRef = '/projects'
+    weight = 10
+  [[menus.main]]
+    name = 'Calendar'
+    pageRef = '/calendar'
+    weight = 20
+  [[menus.main]]
+    name = 'About Us'
+    pageRef = '/about-us'
+    weight = 30
+  [[menus.main]]
+    name = 'Donors'
+    pageRef = '/donors'
+    weight = 40

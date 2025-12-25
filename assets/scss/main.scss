@@ -1,0 +1,64 @@
+:root {
+  /* Color Palette */
+  --green: #61CE70;
+  --rose: #c36;
+  --title: #4f4f4f;
+}
+
+.banner img {
+  display: flex;
+  max-height: 720px;
+  object-fit: cover;
+}
+
+.content {
+  margin: 24px 0 0;
+}
+
+a {
+  color: var(--rose);
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.footer p {
+  font-size: 12px;
+}
+
+p {
+  color: var(--title);
+}
+
+p img {
+  display: block;
+  margin: auto;
+  max-width: 80%;
+}
+
+button:hover {
+  background: var(--green);
+}
+
+button:focus {
+  background: var(--green);
+}
+
+.dropdown-item.active {
+  background: var(--green);
+}
+
+.dropdown-item:focus {
+  background: var(--green);
+}
+
+.navbar-nav .nav-link.active {
+  color: var(--green);
+}
