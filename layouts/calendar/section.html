@@ -1,0 +1,39 @@
+{{ define "main" }}
+    <main>
+        <div class="container">
+            <div class="row banner">
+                <div class="row content justify-content-md-center">
+                    {{ if .Params.Subtitle }}
+                        <h1>{{ .Title }}<br>{{ .Params.Subtitle }}</h1>
+                    {{ else }}
+                        <h1>{{ .Title }}</h1>
+                    {{ end }}
+                    <div class="col-11">
+                    {{ .Content }}
+                    </div>
+                </div>
+                {{ if .Params.Banner }}
+                    <img src="{{ .Params.Banner }}">
+                {{ end }}
+            </div>
+            {{ range (where .Pages ".Params.unlisted" "!=" "true") }}
+            <div class="row mt-3">
+              <div class="col-5">
+                {{ if .Param "Thumb" }}
+                {{ $image := .Page.Resources.GetMatch .Params.Thumb }}
+                <a href="{{ .Permalink }}">
+                    <img src="{{ $image.Permalink }}" style="width: 100%;">
+                </a>
+                {{ end }}
+              </div>
+              <div class="col-7">
+                <a href="{{ .Permalink }}">
+                    <h5><strong>{{ .Title }}</strong></h5>
+                </a>
+                <p>{{ .Summary }}</p>
+              </div>
+            </div>
+            {{ end }}
+        </div>
+    </main>
+{{ end }}
