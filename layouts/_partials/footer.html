@@ -1,63 +1,16 @@
-<div class="elementor elementor-1434 elementor-location-footer" data-elementor-id="1434" data-elementor-post-type="elementor_library"
-     data-elementor-type="footer">
-    <section
-            class="elementor-section elementor-top-section elementor-element elementor-element-5d46fbd3 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-            data-element_type="section" data-id="5d46fbd3">
-        <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7bdc1a08"
-                 data-element_type="column" data-id="7bdc1a08">
-                <div class="elementor-widget-wrap elementor-element-populated">
-                    <div class="elementor-element elementor-element-567b5ae6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                         data-element_type="widget" data-id="567b5ae6" data-widget_type="divider.default">
-                        <div class="elementor-widget-container">
-                            <div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<div class="container footer">
+    <hr>
+    <div class="container">
+        <div class="d-md-flex justify-content-between">
+            <div>
+                <p>{{ .Site.Title }}<br>{{ site.Params.description }}</p>
+                <p>142 Ithaca Beer Drive<br>Ithaca NY, 14850</p>
+            </div>
+            <div>
+                <p>Copyright @ {{ now.Year }}</p>
+                <p><a href="{{ site.Params.copyrighturl }}">{{ .Site.Copyright }}</a><br>PO Box 7124<br>Ithaca NY, 14851</p>
+                <p>WEAVE Community Inc. is a 501(c)(3) registered in NY</p>
             </div>
         </div>
-    </section>
-    <section
-            class="elementor-section elementor-top-section elementor-element elementor-element-577105da elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle"
-            data-element_type="section" data-id="577105da">
-        <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-38f7d214"
-                 data-element_type="column" data-id="38f7d214">
-                <div class="elementor-widget-wrap elementor-element-populated">
-                    <div class="elementor-element elementor-element-7944a0e7 elementor-widget elementor-widget-text-editor"
-                         data-element_type="widget" data-id="7944a0e7" data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                            <h2><span style="color: #578740;"><strong>The Soil Factory</strong></span></h2><h6><span
-                                style="color: #4f4f4f;">Exploring Art, Science and Sustainability</span></h6>
-                            <p><span style="color: #4f4f4f;">142 Ithaca Beer Drive</span><br/><span
-                                    style="color: #4f4f4f;">Ithaca, NY 14850</span></p></div>
-                    </div>
-                </div>
-            </div>
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3ecba3c2"
-                 data-element_type="column" data-id="3ecba3c2">
-                <div class="elementor-widget-wrap elementor-element-populated">
-                    <div class="elementor-element elementor-element-18009ec3 elementor-widget elementor-widget-image"
-                         data-element_type="widget" data-id="18009ec3" data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                            <a href="{{ site.Params.copyrighturl }}" target="_blank">
-                                <img alt="" class="attachment-medium size-medium wp-image-936"
-                                     height="69"
-                                     src='{{ "img/weave-logo.jpg" | relURL }}' width="200"/> </a>
-                        </div>
-                    </div>
-                    <div class="elementor-element elementor-element-af12867 elementor-widget elementor-widget-text-editor"
-                         data-element_type="widget" data-id="af12867" data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                            <p>A project of:<br/><strong>WEAVE Community Inc.</strong><br/>PO Box 7124<br/>Ithaca, NY
-                                14851</p>
-                            <p>WEAVE Community Inc. is a 501(c)(3) registered in NY</p></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    </div>
 </div>
