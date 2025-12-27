@@ -5,4 +5,4 @@ banner = "https://lh3.googleusercontent.com/pw/AP1GczPj-3540gnVZ5wLk_fUuoEmHK0Cw
 
 {{< calendar >}}
 
-Note: the embedded calendar is known to have problems displaying with the DuckDuckGo browser. If you can't see it, try another browser. For more information about events, contact {{< contact-email >}}.
+Note: the embedded calendar is known to have problems displaying with the DuckDuckGo browser. If you can't see it, try another browser. For more information about events, contact {{< contact-email >}}

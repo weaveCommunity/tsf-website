@@ -1,0 +1,10 @@
+<div class="logo-image">
+  {{ $src := .Get "src" }}
+  {{ $logo := .Page.Resources.GetMatch $src }}
+
+  <div class="page-logo p-1">
+    <img src="{{ $logo.Permalink }}">
+      {{ .Inner | .Page.RenderString (dict "display" "block") -}}
+  </div>
+
+</div>

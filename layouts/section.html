@@ -1,35 +1,34 @@
 {{ define "main" }}
 
-    {{ partial "banner.html" . }}
+{{ partial "banner.html" . }}
+<div class="row mt-3">
+  {{ .Content }}
+</div>
 
-    <div class="row mt-3">
-        {{ .Content }}
-    </div>
-
-    {{ range (where .Pages ".Params.unlisted" "!=" "true") }}
-    <div class="row mt-3">
-      <div class="col-5">
-        {{- $thumb := .Params.Thumb -}}
-        {{- $image := .Page.Resources.GetMatch $thumb -}}
-        <a href="{{ .Params.link | default .Permalink }}">
-            {{- if $image }}
-            <img src="{{ $image.RelPermalink }}" style="width: 100%;">
-            {{- else }}
-            <img src="{{ $thumb }}" style="width: 100%;">
-            {{- end }}
-        </a>
-      </div>
-      <div class="col-7">
-          <a href="{{ .Params.link | default .Permalink }}">
-              {{ if eq .Section "calendar" }}
-              {{- $date := .Date.Local -}}
-              <h3>{{ $date.AddDate 0 0 1 | dateFormat "Jan 2" }} - {{ $date.AddDate 0 0 8 | dateFormat "Jan 2"}}</h3>
-              {{ else }}
-                <h3>{{ .Title }}</h3>
-              {{ end }}
-          </a>
-        <p>{{ .Summary }}</p>
-      </div>
-    </div>
-    {{ end }}
+{{ range (where .Pages ".Params.unlisted" "!=" "true") }}
+<div class="row mt-3">
+  <div class="col-md-5 col-sm-12">
+    {{- $thumb := .Params.Thumb -}}
+    {{- $image := .Page.Resources.GetMatch $thumb -}}
+    <a href="{{ .Params.link | default .Permalink }}">
+      {{- if $image }}
+      <img src="{{ $image.RelPermalink }}" style="width: 100%;">
+      {{- else }}
+      <img src="{{ $thumb }}" style="width: 100%;">
+      {{- end }}
+    </a>
+  </div>
+  <div class="col-md-7 col-sm-12 mt-md-0 mt-2">
+    <a href="{{ .Params.link | default .Permalink }}">
+      {{ if eq .Section "calendar" }}
+      {{- $date := .Date.Local -}}
+      <h3>{{ $date.AddDate 0 0 1 | dateFormat "Jan 2" }} - {{ $date.AddDate 0 0 8 | dateFormat "Jan 2"}}</h3>
+      {{ else }}
+      <h3>{{ .Title }}</h3>
+      {{ end }}
+    </a>
+    <p>{{ .Summary }}</p>
+  </div>
+</div>
+{{ end }}
 {{ end }}

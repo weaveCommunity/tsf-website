@@ -56,16 +56,19 @@ button {
 
 .banner {
   position: relative;
+
   img {
     display: flex;
     max-height: 720px;
     object-fit: cover;
   }
+
   div {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+
     h1 {
       font-weight: bold;
       color: white;
@@ -78,37 +81,60 @@ button {
 .navbar-brand {
   text-align: justify;
   text-align-last: left;
+
   h1 {
     color: var(--title);
   }
+
   h4 {
     color: var(--subtitle);
     font-size: 16px;
   }
 }
 
-
-.project-logo {
- position: relative;
- float: right;
- max-width:300px
+.page-logo {
+  img {
+    position: relative;
+    float: right;
+    max-width: 300px
+  }
 }
 
 .alt-image {
-  display:flex;
+  display: flex;
   align-items: center;
+  justify-content: space-between;
+  img {
+    max-width: 500px;
+  }
 }
+
 .container .alt-image:nth-child(2n) {
- flex-direction:row-reverse
+  flex-direction: row-reverse
 }
-@media only screen and (max-width: 767px) {
- .alt-image {
-   flex-direction: column;
- }
- .container .alt-image:nth-child(2n) {
-   flex-direction: column;
- }
- .project-logo {
-   max-width:200px
- }
+
+@media only screen and (max-width: 992px) {
+  .alt-image {
+    flex-direction: column;
+
+    img {
+      max-width: 100%;
+    }
+  }
+  .container .alt-image:nth-child(2n) {
+    flex-direction: column;
+  }
+  .page-logo {
+    img {
+      max-width: 200px
+    }
+  }
+}
+
+@media only screen and (max-width: 432px) {
+  .navbar-brand {
+    h4 {
+      font-size: 12px;
+    }
+  }
 }

@@ -1,8 +1,7 @@
 {{ define "main" }}
-    {{ partial "banner.html" . }}
+{{ partial "banner.html" . }}
 
-
-    <div class="row mt-3">
-        {{ .Content }}
-    </div>
+<div class="row page mt-3">
+  {{ .Content }}
+</div>
 {{ end }}

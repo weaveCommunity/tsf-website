@@ -1,68 +1,68 @@
 <div class="container">
-    <nav class="navbar navbar-expand-lg">
-        <div class="container-fluid">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container-fluid">
 
-            <a class="navbar-brand" href='{{ "" | relURL }}'>
-                <h1 class="elementor-heading-title elementor-size-default">
-                    The Soil Factory
-                </h1>
-                <h4 style="color: #7A7A7A">
-                    Exploring Art, Science, and Sustainability
-                </h4>
-            </a>
+      <a class="navbar-brand" href='{{ "" | relURL }}'>
+        <h1>
+          The Soil Factory
+        </h1>
+        <h4>
+          Exploring Art, Science, and Sustainability
+        </h4>
+      </a>
 
-            <button aria-controls="navbarSupportedContent" aria-expanded="false"
-                    aria-label="Toggle navigation" class="navbar-toggler"
-                    data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse"
-                    type="button">
-                <span class="navbar-toggler-icon"></span>
-            </button>
+      <button aria-controls="navbarSupportedContent" aria-expanded="false"
+              aria-label="Toggle navigation" class="navbar-toggler"
+              data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse"
+              type="button">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
-                    {{- $page := site.GetPage page.Section }}
-                    {{- range site.Menus.main }}
-                    {{- $active := $page.IsMenuCurrent .Menu . }}
-                    {{- $activeSub := $page.HasMenuCurrent .Menu . }}
-                    {{- if .HasChildren }}
-                    <li class="nav-item dropdown">
-                        <div class="btn-group">
-                            <a href='{{ .URL | relURL }}'>
-                                <button class="nav-link{{ if $active }} active{{ end }}">{{- .Name }}</button>
-                            </a>
-                            <button aria-expanded="false"
-                                    class="nav-link dropdown-toggle dropdown-toggle-split{{ if $activeSub }} active{{ end }}"
-                                    data-bs-toggle="dropdown">
-                            </button>
+          {{- $page := site.GetPage page.Section }}
+          {{- range site.Menus.main }}
+          {{- $active := $page.IsMenuCurrent .Menu . }}
+          {{- $activeSub := $page.HasMenuCurrent .Menu . }}
+          {{- if .HasChildren }}
+          <li class="nav-item dropdown">
+            <div class="btn-group">
+              <a href='{{ .URL | relURL }}'>
+                <button class="nav-link{{ if $active }} active{{ end }}">{{- .Name }}</button>
+              </a>
+              <button aria-expanded="false"
+                      class="nav-link dropdown-toggle dropdown-toggle-split{{ if $activeSub }} active{{ end }}"
+                      data-bs-toggle="dropdown">
+              </button>
 
-                            <ul class="dropdown-menu">
-                                {{- range .Children }}
-                                {{- $active := $page.IsMenuCurrent .Menu . }}
-                                <li><a class="dropdown-item {{ if $active }}active{{ end }}"
-                                       href='{{ .URL | relURL }}'>{{- .Name }}</a></li>
-                                {{- end }}
-                            </ul>
-                        </div>
-                    </li>
-                    {{- else }}
-                    <a href='{{ .URL | relURL }}'>
-                        <button class="nav-link{{ if $active }} active{{ end }}">{{- .Name }}</button>
-                    </a>
-                    {{- end }}
-                    {{- end }}
-                </ul>
-
-                <div class="container" style="min-width: 250px;">
-                    <div class="d-flex justify-content-center p-2">
-                        <a class="btn btn-danger" href="{{ site.Params.paypal }}"
-                           role="button" style="width:50%">
-                            Donate!
-                        </a>
-                    </div>
-                </div>
-
+              <ul class="dropdown-menu">
+                {{- range .Children }}
+                {{- $active := $page.IsMenuCurrent .Menu . }}
+                <li><a class="dropdown-item {{ if $active }}active{{ end }}"
+                       href='{{ .URL | relURL }}'>{{- .Name }}</a></li>
+                {{- end }}
+              </ul>
             </div>
+          </li>
+          {{- else }}
+          <a href='{{ .URL | relURL }}'>
+            <button class="nav-link{{ if $active }} active{{ end }}">{{- .Name }}</button>
+          </a>
+          {{- end }}
+          {{- end }}
+        </ul>
+
+        <div class="container" style="min-width: 250px;">
+          <div class="d-flex justify-content-end p-2">
+            <a class="btn btn-danger" href="{{ site.Params.paypal }}"
+               role="button" style="width:50%">
+              Donate!
+            </a>
+          </div>
         </div>
-    </nav>
+
+      </div>
+    </div>
+  </nav>
 </div>
