@@ -5,7 +5,14 @@
   {{ .Content }}
 </div>
 
-{{ range (where .Pages ".Params.unlisted" "!=" "true") }}
+{{ $pages := where .Pages ".Params.unlisted" "!=" "true" }}
+{{ $pages = sort $pages "Title" }}
+{{ $pages = sort $pages ".Params.order" }}
+
+{{/* Paginate: 10 items per page */}}
+{{ $paginator := .Paginate $pages 10 }}
+
+{{ range $paginator.Pages }}
 <div class="row mt-3">
   <div class="col-md-5 col-sm-12">
     {{- $thumb := .Params.Thumb -}}
@@ -22,7 +29,7 @@
     <a href="{{ .Params.link | default .Permalink }}">
       {{ if eq .Section "calendar" }}
       {{- $date := .Date.Local -}}
-      <h3>{{ $date.AddDate 0 0 1 | dateFormat "Jan 2" }} - {{ $date.AddDate 0 0 8 | dateFormat "Jan 2"}}</h3>
+      <h3>{{ $date.AddDate 0 0 1 | dateFormat "Jan 2, 2006" }} - {{ $date.AddDate 0 0 8 | dateFormat "Jan 2, 2006"}}</h3>
       {{ else }}
       <h3>{{ .Title }}</h3>
       {{ end }}
@@ -31,4 +38,31 @@
   </div>
 </div>
 {{ end }}
+
+{{ if gt $paginator.TotalPages 1 }}
+<div class="row mt-3">
+  <nav aria-label="Page navigation">
+    <ul class="pagination justify-content-center">
+      {{ if $paginator.HasPrev }}
+      <li class="page-item">
+        <a class="page-link" href="{{ $paginator.Prev.URL }}">Previous</a>
+      </li>
+      {{ end }}
+
+      {{ range $paginator.Pagers }}
+      <li class="page-item {{ if eq . $paginator }}active{{ end }}">
+        <a class="page-link" href="{{ .URL }}">{{ .PageNumber }}</a>
+      </li>
+      {{ end }}
+
+      {{ if $paginator.HasNext }}
+      <li class="page-item">
+        <a class="page-link" href="{{ $paginator.Next.URL }}">Next</a>
+      </li>
+      {{ end }}
+    </ul>
+  </nav>
+</div>
+{{ end }}
+
 {{ end }}

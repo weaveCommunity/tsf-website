@@ -6,6 +6,14 @@
   --subtitle: #7A7A7A;
 }
 
+.pagination {
+  --bs-pagination-color: var(--green);
+  --bs-pagination-hover-color: var(--green);
+  --bs-pagination-focus-color: var(--green);
+  --bs-pagination-active-border-color: var(--green);
+  --bs-pagination-active-bg: var(--green);
+}
+
 a {
   color: var(--rose);
   text-decoration: none;
@@ -96,7 +104,7 @@ button {
   img {
     position: relative;
     float: right;
-    max-width: 300px
+    max-width: 200px
   }
 }
 
@@ -123,11 +131,6 @@ button {
   }
   .container .alt-image:nth-child(2n) {
     flex-direction: column;
-  }
-  .page-logo {
-    img {
-      max-width: 200px
-    }
   }
 }
 

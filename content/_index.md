@@ -9,7 +9,7 @@ banner="https://lh3.googleusercontent.com/pw/AP1GczNlZ8OvF1o2-GBL-gobKm_F-2QGvYK
 ## What We Do
 Check out our catalog of featured [activities](/activities) to get a sense of what we do at the Soil Factory. Join us for future events, scheduled on our [Calendar](/calendar)! A more extensive record of our previous projects and calendar events can be found on our [archive page](https://archive.thesoilfactory.org).
 
-## Contact Us and Engage
+## Contact Us
 Have an idea for an activity of your own? Get in touch with us: {{< contact-email >}}, we'd love to help you share your idea with the local community! In addition to the [Calendar](/calendar), we have a mailing list that you can sign up for by emailing us at the address above to receive updates.
 
 {{< donation-card >}}
