@@ -1,0 +1,10 @@
+{{ if .Params.Banner }}
+<div class="row banner">
+    <div>
+        <h1>{{ .Title }}</h1>
+    </div>
+    <img src="{{ .Params.Banner }}">
+</div>
+{{ else }}
+<h1>{{ .Title }}</h1>
+{{ end }}

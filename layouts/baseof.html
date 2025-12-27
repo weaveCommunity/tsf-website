@@ -27,8 +27,12 @@
     {{ block "navbar" . }}
         {{ partial "nav.html" }}
     {{ end }}
-    {{ block "main" . }}
-    {{ end }}
+    <main>
+        <div class="container">
+        {{ block "main" . }}
+        {{ end }}
+        </div>
+    </main>
     {{ block "footer" . }}
         {{ partial "footer.html" . }}
     {{ end }}

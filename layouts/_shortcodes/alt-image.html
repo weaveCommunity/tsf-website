@@ -1,11 +1,11 @@
-<div class="prow g-4">
+<div class="alt-image">
     {{ $src := .Get "src" }}
     {{ $image := .Page.Resources.GetMatch $src }}
 
-    <div class='p-2'>
+    <div class="alt-image__img p-2">
         <img src="{{ $image.Permalink }}"/>
     </div>
-    <div class="p-2">
+    <div class="alt-image__txt p-2">
         {{ .Inner | .Page.RenderString (dict "display" "block") -}}
     </div>
 </div>
