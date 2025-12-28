@@ -24,3 +24,8 @@ copyright = "WEAVE Community Inc."
     name = 'Donors'
     pageRef = '/donors'
     weight = 30
+  [[menus.main]]
+    name = 'Featured Events'
+    pageRef = '/activities/events'
+    parent = 'Activities'
+    weight = 11

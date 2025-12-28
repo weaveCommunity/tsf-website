@@ -2,6 +2,7 @@
 title = "The Soil Factory Press"
 banner = "img/banner.png"
 thumb = "img/banner.png"
+aliases = ['/projects/press']
 +++
 
 The Soil Factory Press is an independent publisher to share work at the interface of art and sustainability science, created at The Soil Factory and beyond. Below are a few publication projects. Some of these can be obtained through The Soil Factory, whereby some of the proceeds will go to the artists, some to The Soil Factory that hosted and facilitated the projects, and some constitute handling fees to ship the publication to you.

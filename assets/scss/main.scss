@@ -1,5 +1,4 @@
 :root {
-  /* Color Palette */
   --green: #61CE70;
   --rose: #c36;
   --title: #578740;
@@ -36,6 +35,10 @@ h3 {
 body {
   font-family: 'Roboto';
   font-size: 16px;
+}
+
+img {
+  max-width: 100%;
 }
 
 .footer {
