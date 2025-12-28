@@ -13,7 +13,11 @@
 {{ $paginator := .Paginate $pages 10 }}
 
 {{ range $paginator.Pages }}
-<div class="row mt-3">
+{{ if eq .Section "calendar" }}
+<div class="row section-calender mt-3">
+{{ else }}
+<div class="row section mt-3">
+{{ end }}
   <div class="col-md-5 col-sm-12">
     {{- $thumb := .Params.Thumb -}}
     {{- $image := .Page.Resources.GetMatch $thumb -}}
