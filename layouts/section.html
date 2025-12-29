@@ -33,7 +33,7 @@
     <a href="{{ .Params.link | default .Permalink }}">
       {{ if eq .Section "calendar" }}
       {{- $date := .Date.Local -}}
-      <h3>{{ $date.AddDate 0 0 1 | dateFormat "Jan 2, 2006" }} - {{ $date.AddDate 0 0 8 | dateFormat "Jan 2, 2006"}}</h3>
+      <h3>{{ $date.AddDate 0 0 0 | dateFormat "Jan 2, 2006" }} - {{ $date.AddDate 0 0 7 | dateFormat "Jan 2, 2006"}}</h3>
       {{ else }}
       <h3>{{ .Title }}</h3>
       {{ end }}
