@@ -1,7 +1,6 @@
 +++
 title = "Previous Projects"
 banner = "https://archive.thesoilfactory.org/img/2022/11/workshopcover.jpg"
-thumb = "https://archive.thesoilfactory.org/img/2022/11/workshopcover.jpg"
 link = "https://archive.thesoilfactory.org/projects"
 order = 10
 +++

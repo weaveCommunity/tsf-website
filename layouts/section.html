@@ -19,7 +19,7 @@
 <div class="row section mt-3">
 {{ end }}
   <div class="col-md-5 col-sm-12">
-    {{- $thumb := .Params.Thumb -}}
+    {{- $thumb := .Params.Thumb | default .Params.Banner -}}
     {{- $image := .Page.Resources.GetMatch $thumb -}}
     <a href="{{ .Params.link | default .Permalink }}">
       {{- if $image }}

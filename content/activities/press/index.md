@@ -1,7 +1,6 @@
 +++
 title = "The Soil Factory Press"
-banner = "img/banner.png"
-thumb = "img/banner.png"
+banner = "img/banner.jpg"
 aliases = ['/projects/press']
 +++
 

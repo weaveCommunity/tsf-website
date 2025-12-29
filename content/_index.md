@@ -1,6 +1,6 @@
 +++
 title = "The Soil Factory"
-banner="https://lh3.googleusercontent.com/pw/AP1GczNlZ8OvF1o2-GBL-gobKm_F-2QGvYKAZ3Q_xkjZbgFeOusdnflPqGZe-DNoWlvmKtigLeJhjmiooOP1PxwBupKCFvY2OZS25c2qKWLxDH4p0a_XyQ=w2400"
+banner="https://lh3.googleusercontent.com/pw/AP1GczOqmebhtTeVZR6an4fMJRZ56-Fich5pl_udEc7RTbsVX3hm9MObU7kT9zRU4lzEUcpX78XlCemqr8QAIBQ0NEBeXsmaoO1bLKt4ZSdYZYW7otJLGw=w2400"
 aliases = ['/about-us', '/contact-us']
 +++
 

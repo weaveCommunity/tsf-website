@@ -1,6 +1,6 @@
 +++
 title = "Calendar"
-banner = "https://lh3.googleusercontent.com/pw/AP1GczPj-3540gnVZ5wLk_fUuoEmHK0Cwq_dX-DsFpR5OCa_7JYtmsTSNCSITEnp5JbbgNH1TDaBDh9lNO5Ts-SUR3VMp6Fifkid0x6JtaOsqoOdrZhZ1xV-aijIeWbLV-tXpZ0Ornc5EMZkcueclrDqt4w=w1278-h562-s-no-gm"
+banner = "https://lh3.googleusercontent.com/pw/AP1GczMq_zD8E_jhI2DlmZqvGdNWZlnrVZe_WBsFH2gp95L9JaWRCLmokV2QWH1GiZCeuPi7YTXSHJg9gC1csQIyIe5uv7cAf59yJPktH7TNXRc5sGKn8Q=w2400"
 aliases = ['/calendar-2024', '/calendar-2023', '/calendar-2022']
 +++
 
