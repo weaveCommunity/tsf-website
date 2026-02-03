@@ -1,0 +1,33 @@
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {
+        float: left;
+        display: block;
+        margin: 0 0 1% 1%;
+        width: 32%;
+    }
+    .image-gallery li a img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+</style>
+
+{{ $dir := (.Get "dir") }}
+{{ if not $dir }}
+  {{ $dir = "images" }}
+{{ end }}
+
+{{/* Get all resources from a subdirectory inside this page's bundle */}}
+{{ $images := .Page.Resources.Match (printf "%s/*" $dir) }}
+
+<ul class="image-gallery">
+  {{ range $images }}
+    {{- $image := . -}}
+    <li>
+      <a href="{{ ($image.Fit "1600x1600 q50").RelPermalink }}" class="lightbox-image">
+        <img src="{{ ($image.Fill "300x300 q50").RelPermalink }}">
+      </a>
+    </li>
+  {{ end }}
+</ul>
