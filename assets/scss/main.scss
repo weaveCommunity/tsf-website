@@ -83,6 +83,16 @@ button {
   }
 }
 
+ul, ol {
+  margin-left: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+li {
+  list-style-position: outside;
+  margin-left: 0;
+}
+
 .banner {
   position: relative;
 
@@ -118,6 +128,26 @@ button {
   h4 {
     color: var(--subtitle);
     font-size: 16px;
+  }
+}
+
+.image-gallery {
+  overflow: auto;
+  margin-left: -1% !important;
+
+  li {
+    float: left;
+    display: block;
+    margin: 0 0 1% 1%;
+    width: 32%;
+
+    a {
+      img {
+        width: 100%;
+        height: auto;
+        display: block;
+      }
+    }
   }
 }
 

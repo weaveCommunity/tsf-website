@@ -1,18 +1,3 @@
-<style>
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {
-        float: left;
-        display: block;
-        margin: 0 0 1% 1%;
-        width: 32%;
-    }
-    .image-gallery li a img {
-        width: 100%;
-        height: auto;
-        display: block;
-    }
-</style>
-
 {{ $dir := (.Get "dir") }}
 {{ if not $dir }}
   {{ $dir = "images" }}
