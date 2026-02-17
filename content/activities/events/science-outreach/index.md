@@ -15,9 +15,9 @@ If you have questions or would like to propose a topic you'd like to know more a
 **Demystifying AI in the Age of Climate Change**  
 February 20th, 6:00pm-7:30pm
 
-Interested in Machine Learning (ML) and Artificial Intelligence (AI) but don't know how it works? How is it useful and how it isn't? Join us for a series of events where we will discuss these questions as a group under the direction of a professional with 7 years of collective experience working on ML implementations for renewable energy materials. 
+Interested in Machine Learning (ML) and Artificial Intelligence (AI) but don't know how it works? How is it useful and how it isn't? Join us for the kickoff of a series of events where we will discuss and learn about these topics as a group; led by a professional with 7 years of collective experience working on ML implementations for renewable energy materials.
 
-For our first meeting, February 20th, we will be collecting feedback from the group about your conceptions of AI and going over the fundamentals of how most AI models operate to give you a sense of what AI is useful for, and what is hype. Also, come and give us feedback on what you’re interested in knowing more about. Your questions will shape what we cover in future sessions. There will be snacks!
+For our first meeting, we will be collecting feedback from the group about your conceptions of AI and going over the fundamentals of how most AI models operate to give you a sense of what AI is useful for, and what is hype. Also, come and give us feedback on what you’re interested in knowing more about. There will be **snacks!**
 
 _Agenda_  
 6:00 - 6:10pm : Settling in, introduction and agenda.  
