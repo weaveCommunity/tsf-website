@@ -5,29 +5,36 @@ thumb = "img/event1.webp"
 summary = "Interested in Machine Learning (ML) and Artificial Intelligence (AI) but don't know how it works? How is it useful and how it isn't? Join us for a series of events where we will discuss these questions as a group under the direction of a professional with 7 years of collective experience working on ML implementations for renewable energy materials."
 +++
 
-The Soil Factory is an organization funded in part by scientific grants, and many of the scientists who engage with the community are interested in educating and engaging with the research we do in our day-to-day basis. In that spirit we are starting a series of outreach events, aiming to start with one a month, which will bring people together to discuss the topics which that funding makes possible. This series will focus on agriculture, climate science, and artificial intelligence, and possibly more depending on interest.
+The Soil Factory is an organization funded in part by scientific grants, and many of the scientists who engage with the community are interested in educating and engaging with the research we do in our day-to-day. In that spirit we are starting a series of outreach events, aiming to start with one a month, which will bring people together to discuss the topics which that funding makes possible. This series will focus on agriculture, climate science, and artificial intelligence, and possibly more depending on interest.
 
 If you have questions or would like to propose a topic you'd like to know more about, or contributing your own work to at one of these events, please contact [Jacob Boes](mailto:jrb226@cornell.edu).
 
-### Events:
+## Events:
 
 {{< alt-image src="img/event1.webp" >}}
-**Demystifying AI in the Age of Climate Change**  
+### Demystifying AI in the Age of Climate Change
 February 20th, 6:00pm-7:30pm
 
 Interested in Machine Learning (ML) and Artificial Intelligence (AI) but don't know how it works? How is it useful and how it isn't? Join us for the kickoff of a series of events where we will discuss and learn about these topics as a group; led by a professional with 7 years of collective experience working on ML implementations for renewable energy materials.
 
 For our first meeting, we will be collecting feedback from the group about your conceptions of AI and going over the fundamentals of how most AI models operate to give you a sense of what AI is useful for, and what is hype. Also, come and give us feedback on what you’re interested in knowing more about. There will be **snacks!**
 
-_Agenda_  
+**_Agenda_**  
 6:00 - 6:10pm : Settling in, introduction and agenda.  
 6:10 - 6:35pm : Group breakout: what is AI? Expectation of its capabilities?  
 6:35 - 7:00pm : An expert’s view: The fundamentals that tie AI implementations together.  
 7:00 - 7:20pm : Group breakout: Revisiting expectations for AI.  
 7:20 - 7:30pm : Wrapping up, requests for topics in future sessions.
+
+**_Recap_**  
+On a cold and drizzly Ithaca Friday night, discussions got hot around artificial intelligence; Not only in climate change, but just to talk about the basics of AI, what it is, where it may go, and what we can do. Jake had us play with juggling balls and sticky notes, with rich input from the community about where we want to direct the conversation for the next AI offering at The Soil Factory.
+
+A big thanks to all who attended our first session! Slides from the talk can be accessed [here](https://docs.google.com/presentation/d/1Quxk67dsROHxtmCEvIWigSa-sCCTut_MCforN4U_ito/edit?usp=sharing), pictures from the event are below, and a summary of feedback will be coming soon. Stay tuned and join us next time!
 {{< /alt-image >}}
 
-### Contributors:
+{{< carousel dir="img/s1" visible="3" speed="20" >}}
+
+## Contributors:
 {{< alt-image src="img/jrb.jpg" >}}
 Dr. Jacob Boes
 

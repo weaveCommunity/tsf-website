@@ -159,6 +159,31 @@ li {
   }
 }
 
+.auto-carousel {
+  position: relative;
+  width: 100%;
+  margin: 10px 0;
+  overflow: hidden;
+}
+
+.auto-carousel-track {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 16px;
+  will-change: transform;
+}
+
+.auto-carousel-item {
+  flex: 0 0 auto;
+}
+
+.auto-carousel-item img {
+  display: block;
+  width: 100%;
+  height: 240px;      /* fixed height */
+  object-fit: cover;
+}
+
 .alt-image {
   display: flex;
   align-items: center;

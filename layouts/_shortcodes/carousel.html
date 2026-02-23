@@ -1,0 +1,34 @@
+{{/* params:
+     dir      = folder inside page bundle (default "images")
+     speed    = ms between auto-scroll steps (default 20)
+     visible  = number of visible images at once (default 3)
+*/}}
+
+{{ $dir := .Get "dir" }}
+{{ if not $dir }}
+  {{ $dir = "images" }}
+{{ end }}
+
+{{ $speed := .Get "speed" | default "20" }}
+{{ $visible := .Get "visible" | default "3" }}
+
+{{ $images := .Page.Resources.Match (printf "%s/*" $dir) }}
+
+{{ if gt (len $images) 0 }}
+<div class="auto-carousel" data-speed="{{ $speed }}" data-visible="{{ $visible }}">
+  <div class="auto-carousel-track">
+    {{/* first set */}}
+    {{ range $images }}
+      <div class="auto-carousel-item">
+        <img src="{{ .RelPermalink }}" alt="{{ .Title }}">
+      </div>
+    {{ end }}
+    {{/* duplicate set for seamless loop */}}
+    {{ range $images }}
+      <div class="auto-carousel-item">
+        <img src="{{ .RelPermalink }}" alt="{{ .Title }}">
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
