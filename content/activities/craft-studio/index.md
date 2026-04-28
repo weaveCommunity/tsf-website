@@ -5,13 +5,19 @@ thumb = "img/thumbnail.jpg"
 summary = "**The Craft Studio** is an open workshop space that hosts **Craft Jams**. The Jams happen bi-weekly and are free-flowing evenings in which the sewing machines are open for use, and mending materials are available in an unstructured work environment. Regular additions to Craft Jams include the Linocut Station and Clothing Swaps."
 +++
 
-The Craft Studio is an open workshop space that hosts Craft Jams, which include sewing machines, a serger, mending circle, block printing, clothing swap, and a fabric scrap library. The Jams are hosted bi-weekly and are free-flowing evenings in which the machines are open for use, and mending materials are available in an unstructured work environment. Co-managers are present to help orient folks to the space and chat about projects, but skillsharing comes from within the community.  
+The Craft Studio is an open workshop space that hosts Craft Jams, which include donated sewing machines, a serger, mending circle, block printing, clothing swap, and  an upcycled fabric scrap library. The Jams are hosted bi-weekly and are free-flowing evenings in which the machines are open for use, and mending materials are available in an unstructured work environment. Co-managers are present to help orient folks to the space and chat about projects, but skillsharing comes from within the community. The Craft Studio is centered around creativity, repair, and sustainability. A key part of our ethos is mending to extend the life of garments and reducing textile waste through collaborative making and upcycling to reimagine what already exists. 
 
-Regular additions to Craft Jams include the Linocut Station for block printing jams, and Clothing Swaps where clothes are both swapped and mended, along with a variety of other craft related workshops. One-off special events we have hosted include:
- - Kozo papermaking workshop with Adam Bryan and Laura Rowley
- - Pants Fitting workshop with Ruth Collins 
- - Land-Heritage Black Walnut Foraging and Fabric-Dying workshop with Sheila Novak
- - Magick Sigil Embroidery with Artist-in-Residence Franz Bazin 
+Regular additions to Craft Jams include the Linocut Station for block printing using donated materials and Clothing Swaps where donated clothes are both swapped and mended, along with a variety of other craft related workshops that bring together community, creative practice, and sustainable making. One-off special events we have hosted include:
+
+- Kozo papermaking workshop with Adam Bryan and Laura Rowley
+- Pants Fitting workshop with Ruth Collins
+- Land-Heritage Black Walnut Foraging and Fabric-Dying workshop with Sheila Novak
+- Magick Sigil Embroidery with Artist-in-Residence Franz Bazin
+- Halfway Done Project Swap aka Gumption Function with host Joey 
+- Collage Party with Ithaca College Collage Club with host Shay 
+- Lamp Decorating Workshop with hosts Rohini and Shane 
+- Ithaca Fest Parade Making-workshops with hosts Josi and Jackie
+- Sculptural costume fundamentals with Artist-in-Residence Leslie Rogers
 
 All of our Jams, Workshops and Special Events are publicized through the newsletter and on the calendar. Attend an event to join the newsletter!
 
