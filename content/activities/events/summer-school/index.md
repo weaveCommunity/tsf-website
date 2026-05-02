@@ -12,7 +12,7 @@ The schedule for each day of the Summer ~~School~~ will be posted on a chalk or 
 ## Participants in the Summer ~~School~~
 **Who will be there?**  
 
-We hope all of you reading this website will consider engaging in some ways! As we are cooking and eating together, we have to manage the number of week-long participants.
+We hope all of you reading this website will consider engaging in some ways! As we are cooking and eating together, we have to manage the number of week-long participants.  
 Since one of the origins of the Summer ~~School~~ is the celebration of a 5-year anniversary of the Soil Factory Artist-in Residence program, we started by alerting those artists who visited the Soil Factory early on in its history, and those who agreed to come are listed below. Concurrently, we organized an Open House on April 22 to see who else may be interested in discussing the experiment.  
 The list of our amazing alumnae/i who already agreed to come:
 
