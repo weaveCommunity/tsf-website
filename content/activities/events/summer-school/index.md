@@ -41,7 +41,7 @@ and other Soil Factory community members, Caitlyn Hatzell (coordination), Johann
 {{< alt-image src="img/img5.jpg" >}}
 ## The Summer ~~School~~ Origins
 **How did it start?**  
-The Summer School was conceived by Soil Factory members as a celebration of five years of the artist-in-residence program, inspired by Black Mountain College, and builds on the Soil Factory community as an inspiration of collective creativity. The story continues...
+The Summer ~~School~~ was conceived by Soil Factory members as a celebration of five years of the artist-in-residence program, inspired by Black Mountain College, and builds on the Soil Factory community as an inspiration of collective creativity. The story continues...
 {{< /alt-image >}}
 
 {{< image-gallery dir="img/gal" >}}
