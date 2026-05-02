@@ -41,8 +41,7 @@ and other Soil Factory community members, Caitlyn Hatzell (coordination), Johann
 {{< alt-image src="img/img5.jpg" >}}
 ## The Summer ~~School~~ Origins
 **How did it start?**  
-The Leftover Sewing Lab is a spinoff from an artist collective developed in 2018 in Berlin that revolved around bringing sewing machines and scrap together to have impromptu making sessions turning out sculptures, costumes and play materials. Upcycling textiles and open structured play are the driving forces behind Leftover Sewing. We continue to host this DIY space at the Soil Factory Craft Studio to provide guidance and advice on how to use sewing machines as a tool in your crafting vocabulary.  
-*Hosted by Jackie*
+The Summer School was conceived by Soil Factory members as a celebration of five years of the artist-in-residence program, inspired by Black Mountain College, and builds on the Soil Factory community as an inspiration of collective creativity. The story continues...
 {{< /alt-image >}}
 
 {{< image-gallery dir="img/gal" >}}
