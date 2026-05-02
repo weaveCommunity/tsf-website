@@ -35,7 +35,7 @@
       {{- $date := .Date.Local -}}
       <h3>{{ $date.AddDate 0 0 0 | dateFormat "Jan 2, 2006" }} - {{ $date.AddDate 0 0 7 | dateFormat "Jan 2, 2006"}}</h3>
       {{ else }}
-      <h3>{{ .Title }}</h3>
+      <h3>{{ .Title | safeHTML }}</h3>
       {{ end }}
     </a>
     <p>{{ .Summary }}</p>
