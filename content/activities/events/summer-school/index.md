@@ -4,9 +4,26 @@ banner = "img/banner.jpg"
 thumb = "img/gal/img1.jpg"
 +++
 
-The Soil Factory Summer ~~School~~ is a creative project inspired by the legendary Black Mountain College that celebrates the 5-year anniversary of the Soil Factory Artist-in Residence program. It is an innovative experiment in creative collaborative art making that focuses on ‘process’ and ‘presence’, not ‘product’. The culmination might take the form of an experience, or it might be an artwork, performance, celebration, interaction, publication, improvisation, ceremony, puzzle, meal, or some previously unimagined outcome. As such, the Summer ~~School~~ is also an experiment in community involvement in a collective creative process that not only invites the community to witness or consume the output of artistic creativity, but to be active participants in the process. The project brings international and national artists to Ithaca to seed a community of purpose that we hope will redefine creative collectives and explore new ways of community engagement.
+June 14-21, 2026
 
-The schedule for each day of the Summer ~~School~~ will be posted on a chalk or white board as offerings at The Soil Factory, and copies of these offerings are distributed through a Soil Factory Bulletin Board email list each day (if you want to receive these, make sure to be part of the Soil Factory bulletin board list server).
+The Soil Factory Summer ~~School~~ is a creative project inspired by the
+legendary Black Mountain College that celebrates the 5-year
+anniversary of the Soil Factory Artist-in Residence program. It is an
+innovative experiment in creative collaborative art making that focuses
+on ‘process’ and ‘presence’, not ‘product’. The culmination might take
+the form of an experience, or it might be an artwork, performance,
+celebration, interaction, publication, improvisation, ceremony, puzzle,
+meal, or some previously unimagined outcome. As such, the Summer
+~~School~~ is also an experiment in community involvement in a collective
+creative process that not only invites the community to witness or
+consume the output of artistic creativity, but to be active participants in
+the process. The project brings international and national artists to
+Ithaca to seed a community of purpose that we hope will redefine
+creative collectives and explore new ways of community engagement.
+
+The schedule for each day of the Summer ~~School~~ will be posted on a
+chalk or white board as offerings at The Soil Factory, and copies of these offerings are distributed through a Soil Factory Bulletin Board email list each day (if you want to receive these, make sure to be part of
+the Soil Factory bulletin board list server).
 
 {{< alt-image src="img/img4.jpg" >}}
 ## Participants in the Summer ~~School~~
@@ -35,7 +52,13 @@ The list of our amazing alumnae/i who already agreed to come:
 **Linda Weintraub** (https://lindaweintraub.com/)  
 **Anna Ialeggio** (https://www.coa.edu/profiles/anna-ialeggio/)  
 **Leslie Daniels TBD** (https://www.lesliedaniels.com/)  
-and other Soil Factory community members, Caitlyn Hatzell (coordination), Johannes Lehmann, Ash Ferlito (coordination), Keith Mercovich (coordination); community members Sam Herr and Deanna Greene will join, as well.
+**Krisz Mosdossy** (https://www.evergreen.edu/directory/krisztina-mosdossy)
+and other Soil Factory community members,
+Caitlyn Hatzell (coordination), Johannes
+Lehmann, Ash Ferlito (coordination), Keith
+Mercovich (coordination); community members
+Sam Herr, Robbie Love and Deanna Greene will
+join, as well.
 {{< /alt-image >}}
 
 {{< alt-image src="img/img5.jpg" >}}
