@@ -2,7 +2,7 @@
 title = "Art Share"
 banner = "img/banner.jpg"
 thumb = "img/thumbnail.jpg"
-summary = "Groups of artists meet at the Soil Factory to share their work with other artists and explore exhibiting formats, common themes, and art-making processes. Local artists with ideas, please contact [debora@facciongrodzki.com](mailto:debora@facciongrodzki.com)."
+summary = "Groups of artists meet at the Soil Factory to share their work with other artists and explore exhibiting formats, common themes, and art-making processes. Local artists with ideas, please contact [artshare@thesoilfactory.org](mailto:artshare@thesoilfactory.org)."
 aliases = ['/projects/art-share']
 +++
 
