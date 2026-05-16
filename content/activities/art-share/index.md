@@ -29,5 +29,5 @@ Debora took pictures of the artists and works exhibited, wrote a short text desc
 {{< alt-image src="img/4.jpg" >}}
 Nowadays, the first **Art Share group meets every third Monday of the month from 5-7 PM** and has a self-organizing principle, without leaders or hierarchy. Other groups can be created to meet at different times, as the model works best for small groups. Other temporary or long-term projects centering art-making can fall under the umbrella of “Art Share” if that’s helpful for local artists.  
 
-Contact [debora@facciongrodzki.com](mailto:debora@facciongrodzki.com) if you want to join or form an Art Share group.
+Contact [artshare@thesoilfactory.org](mailto:artshare@thesoilfactory.org) if you want to join or form an Art Share group.
 {{< /alt-image >}}
