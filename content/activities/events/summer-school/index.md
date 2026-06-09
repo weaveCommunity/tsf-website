@@ -1,7 +1,7 @@
 +++
 title = "The Soil Factory Summer <del>School</del>"
 banner = "img/banner.jpg"
-thumb = "img/gal/img1.jpg"
+thumb = "img/gal1/img1.jpg"
 +++
 
 June 14-21, 2026
@@ -21,9 +21,71 @@ the process. The project brings international and national artists to
 Ithaca to seed a community of purpose that we hope will redefine
 creative collectives and explore new ways of community engagement.
 
-The schedule for each day of the Summer ~~School~~ will be posted on a
-chalk or white board as offerings at The Soil Factory, and copies of these offerings are distributed through a Soil Factory Bulletin Board email list each day (if you want to receive these, make sure to be part of
-the Soil Factory bulletin board list server).
+## Summer ~~School~~ Details
+{{< image-gallery dir="img/gal1" >}}
+
+This event celebrates the five-year anniversary of the Soil Factory
+and the contributions of the Artists in Residence to its innovative
+programming.
+
+**Dates:** June 14 – June 21.
+
+The agenda remains provisional:  
+The schedule for each day of the Summer School will be posted
+on a chalk or white board as offerings at The Soil Factory and
+some of the offerings to the community are identified below,
+marked with **“JOIN US”**:
+
+**Sunday, June 14**  
+All Day: arrival and pitching of tents  
+8pm: Summer School Orientation  
+
+**Monday, June 15**  
+8-9am: breakfast  
+9-11am: activity to start a week-long exploration in creativity  
+12-1pm: lunch  
+1-2pm: Daily pitches of ideas  
+7-9pm: cooking and dinner; Symbiotic-Synergistic Salad dinner  
+
+**Tuesday, June 16**  
+8-9am: breakfast  
+12-1pm: lunch  
+1-2pm: Daily pitches of ideas  
+5-7pm: pizza party (bring toppings or just come) **JOIN US**  
+6-8pm: Summer Schoolers introduce their practices **JOIN US**  
+6-8pm: What is the Soil Factory to you – mapping what has
+happened at the Soil Factory **JOIN US**  
+
+**Wednesday, June 17**  
+8-9am: breakfast  
+9-10am: Writing workshop  
+12-1pm: lunch  
+1-2pm: Daily pitches of ideas  
+7-9pm: Soil Food Web Dinner  
+
+**Thursday, June 18**  
+8-9am: breakfast  
+12-1pm: lunch  
+1-2pm: Daily pitches of ideas  
+5-7pm: cooking and dinner  
+6-8pm: Community potluck (bring food to share) **JOIN US**  
+6-9pm: meet the summer schoolers and what has happened so
+far **JOIN US**  
+8pm: All species pageant **JOIN US**  
+
+**Friday, June 19**  
+8-9am: breakfast  
+12-1pm: lunch  
+7-9pm: Nixtamal Taccos  
+
+**Saturday, June 20**  
+8-9am: breakfast  
+Midday to evening: Open House “exhibition and performances”,
+details will be posted here and through email. **JOIN US**  
+
+**Sunday, June 21**  
+8-10am: breakfast  
+All day: departure and cleanup  
 
 {{< alt-image src="img/img4.jpg" >}}
 ## Participants in the Summer ~~School~~
