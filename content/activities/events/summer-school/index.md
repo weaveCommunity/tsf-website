@@ -4,8 +4,6 @@ banner = "img/banner.jpg"
 thumb = "img/gal1/img1.jpg"
 +++
 
-June 14-21, 2026
-
 The Soil Factory Summer ~~School~~ is a creative project inspired by the
 legendary Black Mountain College that celebrates the 5-year
 anniversary of the Soil Factory Artist-in Residence program. It is an
