@@ -1,5 +1,5 @@
 baseURL = "https://www.thesoilfactory.org"
-languageCode = "en-us"
+locale = "en-us"
 title = "The Soil Factory"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = "true"
@@ -17,15 +17,19 @@ copyright = "WEAVE Community Inc."
     pageRef = '/activities'
     weight = 10
   [[menus.main]]
+    name = 'Featured Events'
+    pageRef = '/activities/events'
+    parent = 'Activities'
+    weight = 11
+  [[menus.main]]
+    name = 'Residency'
+    pageRef = '/residency'
+    weight = 30
+  [[menus.main]]
     name = 'Calendar'
     pageRef = '/calendar'
     weight = 20
   [[menus.main]]
     name = 'Donors'
     pageRef = '/donors'
-    weight = 30
-  [[menus.main]]
-    name = 'Featured Events'
-    pageRef = '/activities/events'
-    parent = 'Activities'
-    weight = 11
+    weight = 40
