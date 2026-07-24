@@ -2,8 +2,13 @@
 title = "Science Outreach Series"
 banner = "img/banner.webp"
 thumb = "img/event1.webp"
-summary = "Interested in Machine Learning (ML) and Artificial Intelligence (AI) but don't know how it works? How is it useful and how it isn't? Join us for a series of events where we will discuss these questions as a group under the direction of a professional with 7 years of collective experience working on ML implementations for renewable energy materials."
+order = 2
+summary = """February 20, 2026
+
+Interested in Machine Learning (ML) and Artificial Intelligence (AI) but don't know how it works? How is it useful and how it isn't? Join us for a series of events where we will discuss these questions as a group under the direction of a professional with 7 years of collective experience working on ML implementations for renewable energy materials."""
 +++
+
+**February 20, 2026**
 
 The Soil Factory is an organization funded in part by scientific grants, and many of the scientists who engage with the community are interested in educating and engaging with the research we do in our day-to-day. In that spirit we are starting a series of outreach events, aiming to start with one a month, which will bring people together to discuss the topics which that funding makes possible. This series will focus on agriculture, climate science, and artificial intelligence, and possibly more depending on interest.
 
@@ -35,9 +40,8 @@ A big thanks to all who attended our first session! Slides from the talk can be 
 {{< carousel dir="img/s1" visible="3" speed="20" >}}
 
 ## Contributors:
-{{< alt-image src="img/jrb.jpg" >}}
+{{< alt-image src="img/jrb.webp" >}}
 Dr. Jacob Boes
 
 Background in molecular simulation and machine learning for high‑throughput catalyst modeling of renewable energy technologies; Currently a Postdoc at Cornell University working on reactor design and geospatial modeling of nutrients to advance a circular bio‑nutrient economy. Funding by the National AI Institute for Land, Economy, Agriculture and Forestry ([AI-LEAF](https://cse.umn.edu/aileaf)).
 {{< /alt-image >}}
-

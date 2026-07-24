@@ -1,14 +1,19 @@
 +++
 title = "Summer Solstice Festival"
-banner = "img/banner.jpg"
-thumb = "img/banner.jpg"
-logo = "img/logo.jpg"
-summary = "What do snail shells, labyrinths, hurricanes, and history repeating itself have in common? An iconic symbol for centuries, the spiral reminds us of our roots and can be a powerful model for transformation in our lives. Explore this and more at the Soil Factory’s inaugural **Summer Solstice Festival**, a 6-day event featuring a multi-media, multi-sensory art exhibit, ***The Spiral Path: Tracing Our Way Forward***; activities for all ages; a presentation by distinguished artist Frances Gallardo, upcycled merch to purchase, and a spiral labyrinth to walk in contemplation. Join us **June 17-22** and help support this interconnected community of art, science, and sustainability."
+banner = "img/banner.webp"
+thumb = "img/banner.webp"
+logo = "img/logo.webp"
+order = 4
+summary = """June 17-22, 2025
+
+What do snail shells, labyrinths, hurricanes, and history repeating itself have in common? An iconic symbol for centuries, the spiral reminds us of our roots and can be a powerful model for transformation in our lives. Explore this and more at the Soil Factory’s inaugural **Summer Solstice Festival**, a 6-day event featuring a multi-media, multi-sensory art exhibit, ***The Spiral Path: Tracing Our Way Forward***; activities for all ages; a presentation by distinguished artist Frances Gallardo, upcycled merch to purchase, and a spiral labyrinth to walk in contemplation. Join us and help support this interconnected community of art, science, and sustainability."""
 aliases = ['/projects/summer-solstice']
 +++
 
-{{< logo-image src="img/logo.jpg" >}}
-What do snail shells, labyrinths, hurricanes, and history repeating itself have in common? An iconic symbol for centuries, the spiral reminds us of our roots and can be a powerful model for transformation in our lives. Explore this and more at the Soil Factory’s inaugural **Summer Solstice Festival**, a 6-day event featuring a multi-media, multi-sensory art exhibit, ***The Spiral Path: Tracing Our Way Forward***; activities for all ages; a presentation by distinguished artist Frances Gallardo, upcycled merch to purchase, and a spiral labyrinth to walk in contemplation. Join us **June 17-22** and help support this interconnected community of art, science, and sustainability.
+**June 17-22, 2025**
+
+{{< logo-image src="img/logo.webp" >}}
+What do snail shells, labyrinths, hurricanes, and history repeating itself have in common? An iconic symbol for centuries, the spiral reminds us of our roots and can be a powerful model for transformation in our lives. Explore this and more at the Soil Factory’s inaugural **Summer Solstice Festival**, a 6-day event featuring a multi-media, multi-sensory art exhibit, ***The Spiral Path: Tracing Our Way Forward***; activities for all ages; a presentation by distinguished artist Frances Gallardo, upcycled merch to purchase, and a spiral labyrinth to walk in contemplation. Join us and help support this interconnected community of art, science, and sustainability.
 
 
 **PROGRAM**  
@@ -55,4 +60,4 @@ This program is made possible in part with funds from the Statewide Community
 Regrant program from the New York State Council on the Arts, with the support of the office 
 of the Governor and NYS Legislature, administered by the Community Arts Partnership of 
 Tompkins County.
-![fig2](img/fig2.jpg)
+![fig2](img/fig2.webp)

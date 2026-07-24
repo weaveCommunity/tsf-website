@@ -1,6 +1,6 @@
 +++
 title = "The Soil Factory Press"
-banner = "img/banner.jpg"
+banner = "img/banner.webp"
 aliases = ['/projects/press']
 +++
 
@@ -8,7 +8,7 @@ The Soil Factory Press is an independent publisher to share work at the interfac
 
 #### The Soil Factory Review
 
-{{< alt-image src="img/img1.jpg" >}}
+{{< alt-image src="img/img1.webp" >}}
 The Soil Factory Review is an irregular publication by The Soil Factory Press on topics and with projects of interest to the Soil Factory community. Past and planned Reviews:  
 
 The Soil Factory Review #1: The Soil Factory Manifestos  
@@ -20,7 +20,7 @@ Description of The Soil Factory Review \#1: “An aspiration or proposition, bou
 
 #### Other Soil Factory Press Publications
 
-{{< alt-image src="img/img2.jpg" >}}
+{{< alt-image src="img/img2.webp" >}}
 **Holy Shit.**  
 A publication by Ella Ziegler, Johannes Lehmann, and Jörg Felmeden. Ella was the main instigator of a project that started as a performance at ~~The Floating University~~, Berlin, as part of the EDO-CATION festival in October 2023. This publication contains a quiz show to probe knowledge about circular bionutrient economy, source separating toilets and its history. If you want more information contact either Ella Ziegler ez@ella-ziegler.de or Johannes Lehmann CL273@cornell.edu.  
 

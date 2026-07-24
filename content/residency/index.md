@@ -1,9 +1,9 @@
 +++
 title = "Residencies"
-banner = "img/banner.jpg"
+banner = "img/banner.webp"
 +++
 
-{{< logo-image src="img/logo.jpg" >}}
+{{< logo-image src="img/logo.webp" >}}
 We are experimenting with innovative approaches to bring people together to generate connections for a sustainable future. Our residency program started in November 2021 and provides access to the land and programming at The Soil Factory. Residencies are open to anyone who is interested in engaging with the community at The Soil Factory, including but not limited to artists, scientists, musicians, ecological practitioners, and community organizers.
 
 Artists-in-residence harvest clay from our local soil to make ceramics; participate in art/nature events in our meadow and garden areas; join on-site sustainability-focused mending circles, barter markets, and re-use crafting events; participate in weekly darkroom and cyanotype sessions; engage in child-centered art explorations; and host film nights. These interactions cultivate the practice of our visitors just as much as they bring to our community the chance to see and experience innovative art from outside the scope of our rural Ithacan life.
@@ -14,7 +14,7 @@ A few examples where exciting networks started to expand in unexpected ways, are
 {{< /logo-image >}}
 
 ## Artists-in-residence
-![](img/fig1.jpg)  
+![](img/fig1.webp)  
 Here are some artists who have visited us:
 
 [Nidaa Aboulhosn](https://www.nidaaaboulhosn.com/about) (photography/drawing/time-based – Lebanon/NY)
@@ -147,7 +147,7 @@ Dan Shulman (music – France)
 
 [Ella Ziegler](http://www.ella-ziegler.de/) (Berlin, DE)
 
-{{< alt-image src="img/fig2.jpg" >}}
+{{< alt-image src="img/fig2.webp" >}}
 ## Interested in the Residency?  
 If you want to visit or know someone you want to invite, get in touch with [soilfactoryevents@gmail.com](mailto:soilfactoryevents@gmail.com). It would help to send a half page or so telling us who you are, what kind of work you do, why you are particularly interested in the Soil Factory, and the rough time frame you would like to be considered for coming.  The artist and residence organizing group will write back, but be prepared for a long lag before a response. If you’re interested in the residency, do consider joining our newsletter and bulletin listserv. That is a good way to learn more about the range of happenings at the Soil Factory.
 {{< /alt-image >}}
