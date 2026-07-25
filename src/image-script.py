@@ -4,6 +4,7 @@ import os
 
 size = 1320
 quality = 70
+max_size = 200
 
 path = Path('./content')
 for r, d, files in path.walk():
@@ -19,7 +20,7 @@ for r, d, files in path.walk():
 
             w, h = img.size
             file_size = os.path.getsize(cur_file) / 1000
-            if (w <= size) and (h <= size) and (file_size < 150) and (cur_file.suffix == '.webp'):
+            if (w <= size) and (h <= size) and (file_size < max_size) and (cur_file.suffix == '.webp'):
                 continue
 
             img = ImageOps.exif_transpose(img).convert('RGB')

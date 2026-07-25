@@ -45,14 +45,14 @@ With support from an X-Grant from the John D. and Catherine T. MacArthur Foundat
 
 * **Will Tarpeh** (California) — [2025 MacArthur Fellow](https://www.macfound.org/videos/2025-macarthur-fellow-william-tarpeh), [Stanford Chemical Engineering](https://cheme.stanford.edu/people/william-tarpeh), [Tarpeh Lab](https://www.tarpehlab.com/people)  
 * **Charles Midega** (Kenya) — [Poverty Health and Integrated Solutions](https://www.povertyhealth.org/prof-midega-phis-directorate/)  
-* **Doug Young** (New York) — Sprucehaven Farm  
+* **Doug Young** (New York) — Spruce Haven Farm  
 * **Eli Newell** (California) — [University of California \- Davis](https://ucanr.edu/people/eli-w-newell); [BioCircular Valley](https://biocirv.org/)  
 * **Johannes Lehmann** (New York and Kenya) — Cornell University; [Johannes Lehmann | CALS](https://cals.cornell.edu/people/johannes-lehmann)   
 * **Rebecca Nelson** (New York and Kenya) — Cornell University; MacArthur Fellow, 1996; [Rebecca Judith Nelson | CALS](https://cals.cornell.edu/people/rebecca-judith-nelson) 
 
 ![](img/f3.webp)
 
-### Tenative Program
+### Tentative Program
 
 *Wednesday–Thursday*  
 Arrivals for long-distance participants
