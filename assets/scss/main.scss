@@ -247,3 +247,38 @@ a.link-button.btn {
     box-shadow: 0 3px 8px rgba(0, 0, 0, .18);
   }
 }
+
+.featured-event {
+  margin-bottom: 3rem;
+}
+
+.jump-links {
+  width: 100%;
+  padding: 0.5rem 0;
+  background: #fff;
+}
+
+.jump-links__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.jump-links__button {
+  display: inline-block;
+  padding: 0.6rem 1rem;
+  background: #e0e0e0;
+  color: #333;
+  text-decoration: none;
+  border-radius: 999px;
+  line-height: 1.2;
+}
+
+.jump-links__button:hover,
+.jump-links__button:focus {
+  background: #cfcfcf;
+  color: #000;
+  text-decoration: none;
+}

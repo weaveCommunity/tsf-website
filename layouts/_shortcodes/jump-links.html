@@ -1,0 +1,17 @@
+{{ $items := slice
+  (dict "text" (.Get "one") "id" (.Get "one_id"))
+  (dict "text" (.Get "two") "id" (.Get "two_id"))
+  (dict "text" (.Get "three") "id" (.Get "three_id"))
+  (dict "text" (.Get "four") "id" (.Get "four_id"))
+  (dict "text" (.Get "five") "id" (.Get "five_id"))
+}}
+
+<nav class="jump-links" aria-label="Page sections">
+  <div class="jump-links__list">
+    {{ range $items }}
+      {{ if and .text .id }}
+        <a class="jump-links__button" href="#{{ .id }}">{{ .text }}</a>
+      {{ end }}
+    {{ end }}
+  </div>
+</nav>

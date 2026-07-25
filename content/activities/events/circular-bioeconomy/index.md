@@ -8,6 +8,14 @@ summary = """August 21–22, 2026
 The gathering, “**Finding Synergies: Connecting People and Places to Advance the Circular BioEconomy,”** will bring together farmers, artists, scientists, community members, processors, researchers, and public agencies from New York, California, and Kenya to explore how circular approaches to organic residuals — including human excreta, livestock manure, food waste, and other biomass — can support more sustainable and equitable agrifood systems."""
 +++
 
+{{< jump-links
+  one="Registration" one_id="registration"
+  two="Overview" two_id="overview"
+  three="Panelists" three_id="featured-panelists"
+  four="Program" four_id="tentative-program"
+>}}
+
+
 **August 21–22, 2026**
 
 ### Registration

@@ -1,0 +1,32 @@
+{{ $slug := .Get 0 | default (.Get "event") }}
+{{ $path := printf "/activities/events/%s" $slug }}
+{{ $event := site.GetPage $path }}
+
+{{ $thumb := $event.Params.thumb | default $event.Params.banner }}
+{{ $image := "" }}
+
+{{ with $thumb }}
+  {{ $resource := $event.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $image = $resource.RelPermalink }}
+  {{ else }}
+    {{ $image = . | relURL }}
+  {{ end }}
+{{ end }}
+
+<article class="row section mt-3 featured-event">
+  <div class="col-md-5 col-sm-12">
+    {{ with $image }}
+      <a href="{{ $event.Params.link | default $event.RelPermalink }}">
+        <img src="{{ . }}" style="width:100%;" alt="{{ $event.Title }}">
+      </a>
+    {{ end }}
+  </div>
+
+  <div class="col-md-7 col-sm-12 mt-md-0 mt-2">
+    <a href="{{ $event.Params.link | default $event.RelPermalink }}">
+      <h3>{{ $event.Title | safeHTML }}</h3>
+    </a>
+    <p>{{ $event.Summary }}</p>
+  </div>
+</article>
