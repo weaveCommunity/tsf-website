@@ -31,7 +31,7 @@ To help us plan meals and sessions, please let us know:
   text="Register Now"
 >}}
 
-Please RSVP by **July 29** by replying to this email or contacting Rebecca (rjn7@cornell.edu) or Caitlyn (caitlyn.s.hatzell@gmail.com).
+For any questions, comments or requests, please contact Rebecca ([rjn7@cornell.edu](rjn7@cornell.edu)) or Caitlyn ([caitlyn.s.hatzell@gmail.com](caitlyn.s.hatzell@gmail.com)).
 
 ![](img/f1.webp)
 
