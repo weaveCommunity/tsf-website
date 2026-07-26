@@ -5,7 +5,7 @@ thumb = "img/banner.webp"
 order = 0
 summary = """August 21–22, 2026
 
-The gathering, “**Finding Synergies: Connecting People and Places to Advance the Circular BioEconomy,”** will bring together farmers, artists, scientists, community members, processors, researchers, and public agencies from New York, California, and Kenya to explore how circular approaches to organic residuals — including human excreta, livestock manure, food waste, and other biomass — can support more sustainable and equitable agrifood systems."""
+The gathering, “**Finding Synergies: Connecting People and Places to Advance the Circular BioEconomy,”** will bring together farmers, artists, scientists, community members, processors, researchers, and public agencies from New York, California, and Kenya to explore how circular approaches to organic residuals — including human excreta, livestock manure, food waste, and other biomass — can support more sustainable and equitable agrifood systems. This event is part of the 45th anniversary celebration of the MacArthur Foundation’s [MacArthur Fellows Program](https://www.macfound.org/fellows-45)."""
 +++
 
 {{< jump-links
@@ -18,9 +18,10 @@ The gathering, “**Finding Synergies: Connecting People and Places to Advance t
 
 **August 21–22, 2026**
 
-### Registration
+We are pleased to invite you to a two-day event about the Circular Bioeconomy at the Soil Factory. The gathering, “**Finding Synergies: Connecting People and Places to Advance the Circular BioEconomy,”** will bring together farmers, artists, scientists, community members, processors, researchers, and public agencies from New York, California, and Kenya to explore how circular approaches to organic residuals — including human excreta, livestock manure, food waste, and other biomass — can support more sustainable and equitable agrifood systems. This event is part of the 45th anniversary celebration of the MacArthur Foundation’s [MacArthur Fellows Program](https://www.macfound.org/fellows-45).
 
-We are pleased to invite you to a two-day event about the Circular Bioeconomy at the Soil Factory. The gathering, “**Finding Synergies: Connecting People and Places to Advance the Circular BioEconomy,”** will bring together farmers, artists, scientists, community members, processors, researchers, and public agencies from New York, California, and Kenya to explore how circular approaches to organic residuals — including human excreta, livestock manure, food waste, and other biomass — can support more sustainable and equitable agrifood systems. 
+
+### Registration
 
 To help us plan meals and sessions, please let us know:  
 * Whether you will attend the **community dinner and public panel on Friday, August 21**  -- open to all
@@ -33,6 +34,8 @@ To help us plan meals and sessions, please let us know:
 
 For any questions, comments or requests, please contact Rebecca ([rjn7@cornell.edu](rjn7@cornell.edu)) or Caitlyn ([caitlyn.s.hatzell@gmail.com](caitlyn.s.hatzell@gmail.com)).
 
+---
+
 ![](img/f1.webp)
 
 ### Overview
@@ -42,6 +45,8 @@ During an **evening event on Friday 21 August**, we’ll share a catered dinner 
 On the **afternoon of Saturday 22 August**, a smaller group will dig into the broader circular bioeconomy, starting with lunch and an improvisational performance, followed by an afternoon of participatory systems mapping to create a collective system analysis. We will examine ways to reduce environmental harm, regenerate soils, and improve nutrient access. Our goal is to visualize valorization pathways and find links that can foster practical, cross-regional bio-nutrient strategies to turn underutilized organic materials into local value. Led by artist Adam Shulman, we will develop an interactive systems-transformation-analysis sculpture to help materialize these abstract considerations. Workshop participants will be invited to help shape the artwork's content, composition, and connections during the afternoon workshop, and thus to envision possible connections that may not have been obvious.
 
 The significance of this work reaches beyond agriculture: the principles of circular economy apply to the broader bioeconomy and beyond, and systems analysis can reveal surprising connections wherever complex systems are in play. Participants will be invited into the kind of adaptive problem-solving that complex systems require, grappling together with questions that can help us come to collective answers: What are our goals and what are we doing to get there? What constrains us from achieving them? How can we connect to move toward better social, environmental and economic realities?
+
+---
 
 ![](img/f2.webp)
 
@@ -57,6 +62,8 @@ With support from an X-Grant from the John D. and Catherine T. MacArthur Foundat
 * **Eli Newell** (California) — [University of California \- Davis](https://ucanr.edu/people/eli-w-newell); [BioCircular Valley](https://biocirv.org/)  
 * **Johannes Lehmann** (New York and Kenya) — Cornell University; [Johannes Lehmann | CALS](https://cals.cornell.edu/people/johannes-lehmann)   
 * **Rebecca Nelson** (New York and Kenya) — Cornell University; MacArthur Fellow, 1996; [Rebecca Judith Nelson | CALS](https://cals.cornell.edu/people/rebecca-judith-nelson) 
+
+---
 
 ![](img/f3.webp)
 
@@ -85,4 +92,6 @@ Arrivals for long-distance participants
 *Sunday*  
 Departures for long-distance travelers
 
-\*This event is part of the MacArthur Fellows program’s 45th anniversary.  In the words of our sponsor: ***Defying Boundaries: MacArthur Fellows at 45\.**  This moment calls for creative courage. For 45 years, MacArthur Fellows have expanded the boundaries of possibility by questioning conventions, crossing disciplines, and driving collective progress. Throughout 2026, the Foundation is celebrating the groundbreaking work of the Fellows and inspiring public dialogue through a series of nationwide events and conversations. Learn more at macfound.org/fellows-45.*
+---
+
+\*This event is part of the MacArthur Fellows program’s 45th anniversary.  In the words of our sponsor: ***Defying Boundaries: MacArthur Fellows at 45\.**  This moment calls for creative courage. For 45 years, MacArthur Fellows have expanded the boundaries of possibility by questioning conventions, crossing disciplines, and driving collective progress. Throughout 2026, the Foundation is celebrating the groundbreaking work of the Fellows and inspiring public dialogue through a series of nationwide events and conversations. Learn more at [macfound.org/fellows-45](https://www.macfound.org/fellows-45).*
