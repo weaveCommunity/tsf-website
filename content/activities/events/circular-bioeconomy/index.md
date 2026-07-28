@@ -52,7 +52,7 @@ The significance of this work reaches beyond agriculture: the principles of circ
 
 ### Featured Panelists
 
-With support from an X-Grant from the John D. and Catherine T. MacArthur Foundation\*, the program includes a public panel, shared meals, and a participatory workshop designed to deepen connections and advance practical, cross-regional strategies. All activities will take place at the Soil Factory, an art–science community space dedicated to bold, interdisciplinary dialogue.
+With support from a grant from the John D. and Catherine T. MacArthur Foundation\*, the program includes a public panel, shared meals, and a participatory workshop designed to deepen connections and advance practical, cross-regional strategies. All activities will take place at the Soil Factory, an art–science community space dedicated to bold, interdisciplinary dialogue.
 
 **Featured Panelists for Friday evening:**
 
@@ -61,7 +61,7 @@ With support from an X-Grant from the John D. and Catherine T. MacArthur Foundat
 * **Doug Young** (New York) — Spruce Haven Farm  
 * **Eli Newell** (California) — [University of California \- Davis](https://ucanr.edu/people/eli-w-newell); [BioCircular Valley](https://biocirv.org/)  
 * **Johannes Lehmann** (New York and Kenya) — Cornell University; [Johannes Lehmann | CALS](https://cals.cornell.edu/people/johannes-lehmann)   
-* **Rebecca Nelson** (New York and Kenya) — Cornell University; MacArthur Fellow, 1996; [Rebecca Judith Nelson | CALS](https://cals.cornell.edu/people/rebecca-judith-nelson) 
+* **Rebecca Nelson** (New York and Kenya) — Cornell University; MacArthur Fellow, 1998; [Rebecca Judith Nelson | CALS](https://www.macfound.org/fellows/class-of-1998/rebecca-j-nelson) 
 
 ---
 
