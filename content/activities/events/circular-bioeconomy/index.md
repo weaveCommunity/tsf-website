@@ -61,7 +61,7 @@ With support from a grant from the John D. and Catherine T. MacArthur Foundation
 * **Doug Young** (New York) — Spruce Haven Farm  
 * **Eli Newell** (California) — [University of California \- Davis](https://ucanr.edu/people/eli-w-newell); [BioCircular Valley](https://biocirv.org/)  
 * **Johannes Lehmann** (New York and Kenya) — Cornell University; [Johannes Lehmann | CALS](https://cals.cornell.edu/people/johannes-lehmann)   
-* **Rebecca Nelson** (New York and Kenya) — Cornell University; MacArthur Fellow, 1998; [Rebecca Judith Nelson | CALS](https://www.macfound.org/fellows/class-of-1998/rebecca-j-nelson) 
+* **Rebecca Nelson** (New York and Kenya) — Cornell University; [MacArthur Fellow, 1998](https://www.macfound.org/fellows/class-of-1998/rebecca-j-nelson); [Rebecca Judith Nelson | CALS](https://cals.cornell.edu/people/rebecca-judith-nelson) 
 
 ---
 
