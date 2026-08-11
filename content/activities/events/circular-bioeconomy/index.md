@@ -5,7 +5,7 @@ thumb = "img/banner.webp"
 order = 0
 summary = """August 21–22, 2026
 
-The gathering, “**Finding Synergies: Connecting People and Places to Advance the Circular BioEconomy,”** will bring together farmers, artists, scientists, community members, processors, researchers, and public agencies from New York, California, and Kenya to explore how circular approaches to organic residuals — including human excreta, livestock manure, food waste, and other biomass — can support more sustainable and equitable agrifood systems. This event is part of the 45th anniversary celebration of the MacArthur Foundation’s [MacArthur Fellows Program](https://www.macfound.org/fellows-45)."""
+The gathering, “**Seeking Synergies: Connecting People and Places to Advance the Circular BioEconomy,”** will bring together farmers, artists, scientists, community members, processors, researchers, and public agencies from New York, California, and Kenya to explore how circular approaches to organic residuals — including human excreta, livestock manure, food waste, and other biomass — can support more sustainable and equitable agrifood systems. This event is part of the 45th anniversary celebration of the MacArthur Foundation’s [MacArthur Fellows Program](https://www.macfound.org/fellows-45)."""
 +++
 
 {{< jump-links
@@ -18,7 +18,7 @@ The gathering, “**Finding Synergies: Connecting People and Places to Advance t
 
 **August 21–22, 2026**
 
-We are pleased to invite you to a two-day event about the Circular Bioeconomy at the Soil Factory. The gathering, “**Finding Synergies: Connecting People and Places to Advance the Circular BioEconomy,”** will bring together farmers, artists, scientists, community members, processors, researchers, and public agencies from New York, California, and Kenya to explore how circular approaches to organic residuals — including human excreta, livestock manure, food waste, and other biomass — can support more sustainable and equitable agrifood systems. This event is part of the 45th anniversary celebration of the MacArthur Foundation’s [MacArthur Fellows Program](https://www.macfound.org/fellows-45).
+We are pleased to invite you to a two-day event about the Circular Bioeconomy at the Soil Factory. The gathering, “**Seeking Synergies: Connecting People and Places to Advance the Circular BioEconomy,”** will bring together farmers, artists, scientists, community members, processors, researchers, and public agencies from New York, California, and Kenya to explore how circular approaches to organic residuals — including human excreta, livestock manure, food waste, and other biomass — can support more sustainable and equitable agrifood systems. This event is part of the 45th anniversary celebration of the MacArthur Foundation’s [MacArthur Fellows Program](https://www.macfound.org/fellows-45).
 
 
 ### Registration
