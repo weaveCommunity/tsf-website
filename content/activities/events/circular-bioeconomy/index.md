@@ -28,8 +28,9 @@ To help us plan meals and sessions, please let us know:
 * Whether you would like to participate in the **collaborative workshop on Saturday, August 22**  -- we’re expecting a smaller group
 
 {{< link-button
-  link="https://forms.gle/GZyWaQMVZ5nJKQJy7"
-  text="Register Now"
+    text="Registration closed"
+    link="https://example.org/register"
+    disabled="true"
 >}}
 
 For any questions, comments or requests, please contact Rebecca ([rjn7@cornell.edu](rjn7@cornell.edu)) or Caitlyn ([caitlyn.s.hatzell@gmail.com](caitlyn.s.hatzell@gmail.com)).

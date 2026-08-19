@@ -1,5 +1,24 @@
+{{ $disabled := eq (lower (default "false" (.Get "disabled"))) "true" }}
+
 <div class="link-button-wrap">
-  <a class="btn link-button" href="{{ .Get "link" }}" role="button" target="_blank" rel="noopener noreferrer">
-    {{ .Get "text" | default "Register" }}
-  </a>
+  {{ if $disabled }}
+    <span
+      class="btn link-button is-disabled"
+      role="button"
+      aria-disabled="true"
+      tabindex="-1"
+    >
+      {{ .Get "text" | default "Register" }}
+    </span>
+  {{ else }}
+    <a
+      class="btn link-button"
+      href="{{ .Get "link" }}"
+      role="button"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      {{ .Get "text" | default "Register" }}
+    </a>
+  {{ end }}
 </div>
