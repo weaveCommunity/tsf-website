@@ -5,6 +5,12 @@ thumb = "img/thumbnail.webp"
 aliases = ['/projects/miyawaki-forest']
 +++
 
+{{< jump-links
+  one="Summary" one_id="summary"
+  two="Past Events" two_id="past-events">}}
+
+### Summary
+
 The method of creating a fast-growing biodiverse forest of densely-planted native trees and shrubs was pioneered by a Japanese botany professor, Akira Miyawaki in the 1970s. He developed it to heal degraded land around factories, to connect the workers and their bosses to the beauty of nature.  Planting day was a festival when everyone in the corporation dug holes and put the trees they’d grown from seeds into the ground.
 
 Many of these companies were multinational. Dr. Miyawaki organized a planting day at a Toyota factory in Bangalore, India. Subhendu Sharma was an engineer there, and was so taken with the idea that he left the factory and  became a forest engineer.  His  company, called Afforestt, spread the Miyawaki method around India and all the way to Europe.
@@ -16,7 +22,7 @@ A few years ago, the ecologist, Dr. Hannah Lewis, wrote Mini-Forest Revolution a
 {{< /alt-image >}}
 
 {{< alt-image src="img/Picture1.webp" >}}
-**Measuring and Marking the Site**  
+**Measuring and Marking the Site**
 Volunteers use measuring tape to mark the dimensions of the future mini forest. The area was then covered with a black plastic tarp through the winter and spring.
 {{< /alt-image >}}
 
@@ -29,28 +35,28 @@ The gate and fence posts were installed proir to the planting date, to make it e
 {{< /alt-image >}}
 
 {{< alt-image src="img/Picture2.webp" >}}
-**Planning the Layout**  
+**Planning the Layout**
 With the fence posts installed, and the outline of the fence marked with cardboard, flags labelled with the 22 species to be planted, were placed according to the planting design.
 {{< /alt-image >}}
 
 {{< alt-image src="img/Picture3.webp" >}}
-**Guiding the Volunteers**  
-The planting area is divided into 4 sectors marked with blue tape.  
+**Guiding the Volunteers**
+The planting area is divided into 4 sectors marked with blue tape.
 Volunteers chose a sector and coaches explained the planting method for that team.
 {{< /alt-image >}}
 
 {{< alt-image src="img/Picture4.webp" >}}
-**A Family Affair**  
-Children join the effort, lending a hand to plant sapling trees. 
+**A Family Affair**
+Children join the effort, lending a hand to plant sapling trees.
 {{< /alt-image >}}
 
 {{< alt-image src="img/Picture5.webp" >}}
-**Hands in the Soil**  
+**Hands in the Soil**
 Coaches guided volunteers on the planting method. Each team applies a different soil amendment in their section of the circle:  compost from the town of Ithaca, compost+biochar, shown here, compost+biochar+living inoculum, and one sector with no amendment.
 {{< /alt-image >}}
 
 {{< alt-image src="img/Picture6.webp" >}}
-**Coordinated Planting and Watering**  
+**Coordinated Planting and Watering**
 Volunteers work together, planting the designated species and carefully watering them with untreated well water.
 {{< /alt-image >}}
 
@@ -61,3 +67,13 @@ With 288 trees and shrubs snugly planted, the 8 foot deer fence was rolled out a
 {{< alt-image src="img/3.webp" >}}
 To prepare for its first winter, the entire site was mulched with cardboard and wood chips.
 {{< /alt-image >}}
+
+---
+
+### Past Events
+
+**The Earth Symposium: April 23-25, 2026**
+
+“This event presents us with a wonderful opportunity to bring together scholars, artists, and performers from across Cornell, the local community, and beyond who are invested in the environmental arts and humanities,” said Classics  Professor Verity Platt, a creator and organizer of the symposium. “We are excited to celebrate Earth Week by looking to the element of earth itself – celebrating that which nourishes us whilst also exploring the many ways in which it has been handled, understood, or exploited over human history.”  BIOphelia, a solo performance featuring Shakespeare's Ophelia delivering botanical information was followed the next day by a visit to the Miyawaki Forest, which is, itself, a kind of botanical performance art.
+
+The [script for this tour](https://docs.google.com/document/d/1eXcWxwDBso0KCPnxykJyIYQthMM9odAZ/edit?usp=drive_link&ouid=114497852364559428583&rtpof=true&sd=true) riffs on themes described by Professor Platt:  the Gayogo̱hó:nǫ naming of the trees in their forests, and the superceding Latin genus and species names introduced by Linnaeus in the 18th century, that became the universal scientific nomenclature as the land itself was taken away from the indigenous forest guardians. Stephen Henhawk has returned to his ancestor's homeland bringing back the names these native trees and recounting stories about them in The Standing Living Forest project.
