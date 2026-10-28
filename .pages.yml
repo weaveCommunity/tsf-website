@@ -10,7 +10,13 @@ content:
     type: collection
     path: content
     format: yaml-frontmatter
+
+    filename:
+      template: "{primary}.md"
+      field: create
+
     subfolders: true
+
     fields:
       - name: title
         label: Page title
