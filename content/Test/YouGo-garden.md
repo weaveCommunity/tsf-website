@@ -12,3 +12,7 @@ Thanks to Fisher StClaire, one of the 2025 WIP interns, who made this map.  WIP 
 ![](/uploads/drone-experiment-2026.jpg)
 
 This picture shows an experiment we did in 2026, with the support of the NY Pollution Protection Institute.  We used our usual YouGo bed mix (a mix of corn stalks, wheat straw and leaves).  We compared urine and a conventional fertilizer as nutrient sources, each with and without biochar in the base mix. Pee was the best!    
+
+![](/uploads/forrest-and-kale-2026.jpg)
+
+Forrest Meekins is the genius gardener who makes it all happen in the YouGo garden!  She's supported by devoted and talented interns and volunteers.
