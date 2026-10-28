@@ -1,12 +1,6 @@
----
-page_name: miyawaki-forest
-summary: The method of creating a fast-growing biodiverse forest of
-  densely-planted native trees and shrubs was pioneered by a Japanese botany
-  professor, Akira Miyawaki in the 1970s. He developed it to heal degraded land
-  around factories, to connect the workers and their bosses to the beauty of
-  nature.  Planting day was a festival when everyone in the corporation dug
-  holes and put the trees they’d grown from seeds into the ground.
----
++++
+page_name = 'miyawaki-forest'
++++
 +++
 title = "Miyawaki Forest"
 banner = "img/banner.webp"
