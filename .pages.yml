@@ -13,7 +13,7 @@ content:
 
     filename:
       template: "{primary}.md"
-      field: create
+      field: true
 
     subfolders: true
 
