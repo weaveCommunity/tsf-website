@@ -12,18 +12,13 @@ content:
     format: toml-frontmatter
 
     filename:
-      template: "{fields.page_name}.md"
-      field: false
+      template: "{primary}.md"
+      field: true
+      description: "Choose a short name without spaces, such as community-workshop."
 
     subfolders: true
 
     fields:
-      - name: page_name
-        label: Page name
-        type: string
-        required: true
-        description: "Choose a short name without spaces, such as community-workshop."
-    
       - name: title
         label: Page title
         type: string
