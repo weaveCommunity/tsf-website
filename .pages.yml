@@ -1,0 +1,36 @@
+media:
+  input: static/uploads
+  output: /uploads
+  categories: [image]
+  rename: safe
+
+content:
+  - name: pages
+    label: Website pages
+    type: collection
+    path: content
+    format: yaml-frontmatter
+    subfolders: true
+    fields:
+      - name: title
+        label: Page title
+        type: string
+
+      - name: banner
+        label: Banner image
+        type: image
+
+      - name: summary
+        label: Summary
+        type: text
+
+      - name: body
+        label: Page content
+        type: rich-text
+        options:
+          format: markdown
+          switcher: true
+
+settings:
+  content:
+    merge: true
