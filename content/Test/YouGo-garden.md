@@ -16,3 +16,7 @@ This picture shows an experiment we did in 2026, with the support of the NY Poll
 ![](/uploads/forrest-and-kale-2026.jpg)
 
 Forrest Meekins is the genius gardener who makes it all happen in the YouGo garden!  She's supported by devoted and talented interns and volunteers.
+
+![](/uploads/Dining-table_garden.jpg)
+
+We have a dining table and play zone next to the garden so we can relax and enjoy life...
