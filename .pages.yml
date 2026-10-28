@@ -9,7 +9,7 @@ content:
     label: Website pages
     type: collection
     path: content
-    format: yaml-frontmatter
+    format: toml-frontmatter
 
     filename:
       template: "{fields.page_name}.md"
