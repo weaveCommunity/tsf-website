@@ -109,6 +109,9 @@ content:
     format: toml-frontmatter
     subfolders: true
 
+    exclude:
+      - img
+
     filename:
       template: "{fields.date}.md"
       field: false
