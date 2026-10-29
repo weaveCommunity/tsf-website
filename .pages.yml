@@ -7,7 +7,7 @@ media:
 content:
   # Ordinary pages: everything in content except calendar entries.
   - name: pages
-    label: Website pages
+    label: Home
     type: collection
     path: content
     format: toml-frontmatter
