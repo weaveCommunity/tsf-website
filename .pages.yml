@@ -12,14 +12,15 @@ content:
     path: content
     format: toml-frontmatter
     subfolders: true
+    operations:
+      rename: true
+      delete: true
 
     exclude:
       - calendar
       - calendar/**
       - test
       - test/**
-      - Test
-      - Test/**
 
     filename:
       template: "{primary}.md"
