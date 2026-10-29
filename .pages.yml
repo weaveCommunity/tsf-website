@@ -5,23 +5,28 @@ media:
   rename: safe
 
 content:
+  # Ordinary pages: everything in content except calendar entries.
   - name: pages
     label: Website pages
     type: collection
     path: content
     format: toml-frontmatter
+    subfolders: true
+
+    exclude:
+      - calendar
+      - calendar/**
 
     filename:
       template: "{primary}.md"
       field: true
       description: "Choose a short name without spaces, such as community-workshop. Include .md at the end."
 
-    subfolders: true
-
     fields:
       - name: title
         label: Page title
         type: string
+        required: true
         description: "Title for your page. Will overlay the banner iamge."
 
       - name: banner
@@ -34,12 +39,48 @@ content:
         type: text
         description: "An optional summary to be displayed on the list page."
 
+      - name: aliases
+        label: Previous page addresses
+        type: string
+        list: true
+
       - name: body
         label: Page content
         type: rich-text
         options:
           format: markdown
           switcher: true
+
+  # Calendar entries: only these three editable fields.
+  - name: calendar
+    label: Calendar
+    type: collection
+    path: content/calendar
+    format: toml-frontmatter
+    subfolders: true
+
+    filename:
+      template: "{fields.date}-{hour}{minute}{second}.md"
+      field: false
+
+    fields:
+      - name: date
+        label: Event date
+        type: date
+        required: true
+        options:
+          time: false
+          format: "yyyy-MM-dd"
+
+      - name: link
+        label: Event link
+        type: string
+        required: true
+        description: "Enter the full URL, including https://."
+
+      - name: banner
+        label: Calender image
+        type: image
 
 settings:
   content:
