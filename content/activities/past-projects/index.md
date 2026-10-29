@@ -1,6 +1,6 @@
 +++
 title = "Previous Projects"
-banner = "https://archive.thesoilfactory.org/img/2022/11/workshopcover.webp"
+banner = "img/banner.webp"
 link = "https://archive.thesoilfactory.org/projects"
 order = 10
 +++
