@@ -13,14 +13,15 @@ content:
     format: toml-frontmatter
     subfolders: true
     operations:
-      create: true
-      rename: true
-      delete: true
+      create: false
+      rename: false
+      delete: false
 
     exclude:
       - calendar
       - test
       - Test
+      - img
 
     filename:
       template: "{primary}.md"
@@ -63,7 +64,7 @@ content:
     format: toml-frontmatter
     subfolders: true
     operations:
-      create: false
+      create: true
       rename: true
       delete: true
 
@@ -107,7 +108,11 @@ content:
     path: content/calendar
     format: toml-frontmatter
     subfolders: true
-
+    operations:
+      create: true
+      rename: true
+      delete: true
+  
     exclude:
       - img
 
