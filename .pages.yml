@@ -62,6 +62,9 @@ content:
     path: content/calendar
     format: toml-frontmatter
     subfolders: true
+    operations:
+      rename: true
+      delete: true
 
     filename:
       template: "{fields.date}.md"
