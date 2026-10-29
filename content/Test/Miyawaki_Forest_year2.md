@@ -18,6 +18,9 @@ The 4 charts below show the heights of each tree sorted by the sections. For all
 
 Data from this small sample of trees suggests that something about the conditions in section 4 favored vertical growth. It may have been that lush growth of these plants produced a shadier understory and competition for light  propelled them upward. But we didn’t measure light levels in the understory, it just seemed to be more lush than in the other sections. What other factors might be considered?  
 
+![](/uploads/birch.png)
 
+![](/uploads/basswood.png)
 
-&nbsp;
+![](/uploads/hackberry.png)
+
