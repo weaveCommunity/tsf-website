@@ -2,6 +2,7 @@ media:
   input: static/uploads
   output: /uploads
   categories: [image]
+  extensions: [jpg, jpeg, png, webp]
   rename: safe
 
 content:
