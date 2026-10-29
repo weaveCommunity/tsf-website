@@ -12,6 +12,8 @@ content:
     path: content
     format: toml-frontmatter
     subfolders: true
+    operations:
+      delete: false
 
     exclude:
       - calendar
