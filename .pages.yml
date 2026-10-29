@@ -56,10 +56,10 @@ content:
           switcher: true
 
   # Calendar entries: only these three editable fields.
-  - name: calendar
-    label: Calendar
+  - name: test
+    label: Test Pages
     type: collection
-    path: content/calendar
+    path: content/test
     format: toml-frontmatter
     subfolders: true
     operations:
