@@ -64,7 +64,7 @@ content:
     subfolders: true
 
     filename:
-      template: "{fields.date}-{hour}{minute}{second}.md"
+      template: "{fields.date}.md"
       field: false
 
     fields:
