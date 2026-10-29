@@ -1,6 +1,7 @@
 +++
 title = 'Why are trees in one section of the Miyawaki Miniforest taller than their cohorts in other sections?'
 summary = 'When the Miyawaki Miniforest was planted in the fall of 2024, there were four different soil treatments. We wondered whether the different soil treatments affected the growth of the trees. '
+banner = '/uploads/20261028164515.webp'
 +++
 The miniforest is divided into four sections, each with a different soil amendment.
 
