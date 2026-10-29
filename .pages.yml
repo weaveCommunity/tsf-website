@@ -13,6 +13,7 @@ content:
     format: toml-frontmatter
     subfolders: true
     operations:
+      create: true
       rename: true
       delete: true
 
@@ -63,6 +64,7 @@ content:
     format: toml-frontmatter
     subfolders: true
     operations:
+      create: false
       rename: true
       delete: true
 
