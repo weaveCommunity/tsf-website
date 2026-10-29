@@ -82,6 +82,13 @@ content:
         label: Calender image
         type: image
 
+      - name: body
+        label: Calender text
+        type: rich-text
+        options:
+          format: markdown
+          switcher: true
+
 settings:
   content:
     merge: true
