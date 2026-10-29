@@ -19,9 +19,8 @@ content:
 
     exclude:
       - calendar
-      - calendar/**
       - test
-      - test/**
+      - Test
 
     filename:
       template: "{primary}.md"
