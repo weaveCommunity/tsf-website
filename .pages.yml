@@ -62,7 +62,7 @@ content:
     type: collection
     path: content/test
     format: toml-frontmatter
-    subfolders: true
+    subfolders: false
     operations:
       create: true
       rename: true
