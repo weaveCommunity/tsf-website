@@ -61,6 +61,9 @@ content:
     path: content/test
     format: toml-frontmatter
     subfolders: true
+    operations:
+      rename: true
+      delete: true
 
     filename:
       template: "{primary}.md"
