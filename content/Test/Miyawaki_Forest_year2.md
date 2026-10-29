@@ -24,3 +24,5 @@ Data from this small sample of trees suggests that something about the condition
 
 ![](/uploads/hackberry.png)
 
+![](/uploads/persimmon.png)
+
