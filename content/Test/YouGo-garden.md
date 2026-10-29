@@ -20,3 +20,14 @@ Forrest Meekins is the genius gardener who makes it all happen in the YouGo gard
 ![](/uploads/Dining-table_garden.jpg)
 
 We have a dining table and play zone next to the garden so we can relax and enjoy life...
+
+![](/uploads/Roundbale-kidz.jpg)
+
+Playing on the round bales.
+
+![](/uploads/making-tea.jpg)
+
+Making tea from medicinal plants from the garden (2025)
+
+![](/uploads/flowers-1.jpg)
+
