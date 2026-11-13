@@ -9,8 +9,6 @@ can they be displayed as a slideshow?
 
 2.  a triptych mix of animated branch dancing and robust cello, meditative stick balancing, tree song, and tender, playful sapling celebration. The audience had a chance to whisper wishes to the forest and enjoy a birthday cupcake. This environmental performance is a collaboration between **INSITU** **choreographer/performer Cynthia Stevens and improvisational cellist Sera Smolen**, along with **performer Emily Healy**.
 
-![image.png](blob:https:/app.pagescms.org/65bf2137-cbd6-4328-91d9-8bfe8e62b560)
-
 
 
 **The Earth Symposium: April 23-25, 2026**
