@@ -1,6 +1,6 @@
 +++
 title = 'The Miyawaki Miniforest growing up'
-summary = 'The miniforest woke up in spring 2025, and we recorded its growth with a camera and celebrated its first birthday in October. '
+summary = "The miniforest woke up in spring 2025, and we recorded its growth with a camera and celebrated its first birthday in October. In spring 2026 we collaborated with the soil microbes to decorate a shroud, and for celebrated Earthday as a destination for Cornell's Earth Symposium. In August 2026 Tompkins County Mastergardeners visited and noticed that trees in one area were especially tall.  We wondered whether the different soil treatments affected the growth of the trees."
 banner = '/uploads/20261028164515.webp'
 +++
 1.  the slides for the first season of growth are at this site  [https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8](https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8)
