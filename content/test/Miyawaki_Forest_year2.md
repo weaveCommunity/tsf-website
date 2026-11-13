@@ -1,8 +1,34 @@
 +++
-title = 'Why are trees in one section of the Miyawaki Miniforest taller than their cohorts in other sections?'
-summary = 'When the Miyawaki Miniforest was planted in the fall of 2024, there were four different soil treatments. We wondered whether the different soil treatments affected the growth of the trees. '
+title = 'The Miyawaki Miniforest growing up'
+summary = 'The miniforest woke up in spring 2025, and we recorded its growth with a camera and celebrated its first birthday in October. '
 banner = '/uploads/20261028164515.webp'
 +++
+1.  the slides for the first season of growth are at this site  [https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8](https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8)
+
+can they be displayed as a slideshow? 
+
+2.  a triptych mix of animated branch dancing and robust cello, meditative stick balancing, tree song, and tender, playful sapling celebration. The audience had a chance to whisper wishes to the forest and enjoy a birthday cupcake. This environmental performance is a collaboration between **INSITU** **choreographer/performer Cynthia Stevens and improvisational cellist Sera Smolen**, along with **performer Emily Healy**.
+
+![image.png](blob:https:/app.pagescms.org/65bf2137-cbd6-4328-91d9-8bfe8e62b560)
+
+
+
+**The Earth Symposium: April 23-25, 2026**
+
+“This event presents us with a wonderful opportunity to bring together scholars, artists, and performers from across Cornell, the local community, and beyond who are invested in the environmental arts and humanities,” said Classics Professor Verity Platt, a creator and organizer of the symposium. “We are excited to celebrate Earth Week by looking to the element of earth itself – celebrating that which nourishes us whilst also exploring the many ways in which it has been handled, understood, or exploited over human history.” BIOphelia, a solo performance featuring Shakespeare’s Ophelia delivering botanical information was followed the next day by a visit to the Miyawaki Forest, which is, itself, a kind of botanical performance art.
+
+
+
+The [script for this tour](https://docs.google.com/document/d/1eXcWxwDBso0KCPnxykJyIYQthMM9odAZ/edit?usp=drive_link&ouid=114497852364559428583&rtpof=true&sd=true) riffs on themes described by Professor Platt: the Gayogo̱hó:nǫ naming of the trees in their forests, and the superseding Latin genus and species names introduced by Linnaeus in the 18th century, that became the universal scientific nomenclature as the land itself was taken away from the indigenous forest guardians. Stephen Henhawk has returned to his ancestor’s homeland bringing back the names these native trees and recounting stories about them in [The Standing Living Forest](https://www.treesuptompkins.org/the-standing-living-forest) project.
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 The miniforest is divided into four sections, each with a different soil amendment.
 
 Section 1 had no amendments.
