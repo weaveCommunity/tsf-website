@@ -5,19 +5,25 @@ banner = '/uploads/20261028164515.webp'
 +++
 1. the slides for the first season of growth are at this site  [https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8](https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8)
 
-can they be displayed as a slideshow? 
+can they be displayed as a video or slideshow?  
 
-Soil factory microbes contributed to the Soil Shroud project. fall 2025
+2. Soil factory microbes contributed to the Soil Shroud project. fall 2025
 
 ![](/uploads/20250912shrud.jpg)
 
-2. a triptych mix of animated branch dancing and robust cello, meditative stick balancing, tree song, and tender, playful sapling celebration. The audience had a chance to whisper wishes to the forest and enjoy a birthday cupcake. This environmental performance is a collaboration between **INSITU** **choreographer/performer Cynthia Stevens and improvisational cellist Sera Smolen**, along with **performer Emily Healy**.
+3.  **INSITU** **choreographer and performer Cynthia Stevens and improvisational cellist Sera Smolen**, along with **performer Emily Healy** presented a triptych mix of animated branch dancing and robust cello, meditative stick balancing, tree song, and tender, playful sapling celebration. The audience had a chance to whisper wishes to the forest and enjoy a birthday cupcake.  
 
-**The Earth Symposium: April 23-25, 2026**
+![](/uploads/miyawaki-birthday-dance.jpg)
+
+
+
+3. **On April 24th the Soil Factory hosted *The Matter of Earth*, a celebration of the soil as part of the** three-day Cornell Department of Classics and Performing & Media Arts Earth Symposium.
 
 “This event presents us with a wonderful opportunity to bring together scholars, artists, and performers from across Cornell, the local community, and beyond who are invested in the environmental arts and humanities,” said Classics Professor Verity Platt, a creator and organizer of the symposium. “We are excited to celebrate Earth Week by looking to the element of earth itself – celebrating that which nourishes us whilst also exploring the many ways in which it has been handled, understood, or exploited over human history.” BIOphelia, a solo performance featuring Shakespeare’s Ophelia delivering botanical information was followed the next day by a visit to the Miyawaki Forest, which is, itself, a kind of botanical performance art.
 
 
+
+![](/uploads/matter-of-earth-7.jpg)
 
 The [script for this tour](https://docs.google.com/document/d/1eXcWxwDBso0KCPnxykJyIYQthMM9odAZ/edit?usp=drive_link&ouid=114497852364559428583&rtpof=true&sd=true) riffs on themes described by Professor Platt: the Gayogo̱hó:nǫ naming of the trees in their forests, and the superseding Latin genus and species names introduced by Linnaeus in the 18th century, that became the universal scientific nomenclature as the land itself was taken away from the indigenous forest guardians. Stephen Henhawk has returned to his ancestor’s homeland bringing back the names these native trees and recounting stories about them in [The Standing Living Forest](https://www.treesuptompkins.org/the-standing-living-forest) project.
 
