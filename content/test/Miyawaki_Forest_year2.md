@@ -1,9 +1,13 @@
 +++
 title = 'The Miyawaki Miniforest growing up'
-summary = "The miniforest woke up in spring 2025, and we recorded its growth with a camera. In the fall, we collaborated with its soil microbes to embellish a shroud and celebrated its first birthday with music, dance and cupcakes, and also planted the first saplings to start the hilltop hedgerow.  In April 2026, the miniforest was a destination for Cornell's Earth Symposium, and in August Tompkins County Master gardeners visited. They noticed that trees in one area were especially tall.  We wondered whether the different soil treatments we used on planting day had affected the growth of the trees."
+summary = "After sleeping through its first winter, the miniforest woke up in April, 2025, and we recorded its growth.  In the fall, we collaborated with its soil microbes to embellish a shroud and celebrated its first birthday with music, dance and cupcakes, and also planted the first saplings to start the hilltop hedgerow.  In April 2026, the miniforest was a destination for Cornell's Earth Symposium, and in August Tompkins County Master gardeners visited. They noticed that trees in one area were especially tall.  We wondered whether the different soil treatments we used on planting day had affected the growth of the trees."
 banner = '/uploads/20261028164515.webp'
 +++
-1. the slides for the first season of growth are at this site  [https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8](https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8)
+What began as bare root saplings and potted seedlings when planted in the fall, put down roots over the winter and sent up new shoots in the spring. 
+
+/
+
+ slides for the first season of growth are at this site  [https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8](https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8)
 
 can they be displayed as a video or slideshow?  
 
@@ -11,7 +15,7 @@ can they be displayed as a video or slideshow?
 
 ![](/uploads/20250912shrud.jpg)
 
-3.  **INSITU** **choreographer and performer Cynthia Stevens and improvisational cellist Sera Smolen**, along with **performer Emily Healy** presented a triptych mix of animated branch dancing and robust cello, meditative stick balancing, tree song, and tender, playful sapling celebration. The audience had a chance to whisper wishes to the forest and enjoy a birthday cupcake.  
+3. **INSITU** **choreographer and performer Cynthia Stevens and improvisational cellist Sera Smolen**, along with **performer Emily Healy** presented a triptych mix of animated branch dancing and robust cello, meditative stick balancing, tree song, and tender, playful sapling celebration. The audience had a chance to whisper wishes to the forest and enjoy a birthday cupcake.
 
 ![](/uploads/miyawaki-birthday-dance.jpg)
 
