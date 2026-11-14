@@ -1,13 +1,13 @@
 +++
 title = 'The Miyawaki Miniforest growing up'
-summary = "The miniforest woke up in spring 2025, and we recorded its growth with a camera and celebrated its first birthday in October. In spring 2026 we collaborated with the soil microbes to decorate a shroud, and for celebrated Earthday as a destination for Cornell's Earth Symposium. In August 2026 Tompkins County Mastergardeners visited and noticed that trees in one area were especially tall.  We wondered whether the different soil treatments affected the growth of the trees."
+summary = "The miniforest woke up in spring 2025, and we recorded its growth with a camera. In the fall, we collaborated with its soil microbes to embellish a shroud and celebrated its first birthday with music, dance and cupcakes, and also planted the first saplings to start the hilltop hedgerow.  In April 2026, the miniforest was a destination for Cornell's Earth Symposium, and in August Tompkins County Master gardeners visited. They noticed that trees in one area were especially tall.  We wondered whether the different soil treatments we used on planting day had affected the growth of the trees."
 banner = '/uploads/20261028164515.webp'
 +++
 1. the slides for the first season of growth are at this site  [https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8](https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8)
 
 can they be displayed as a slideshow? 
 
-Soil factory microbes contributed to the Soil Shroud project. 
+Soil factory microbes contributed to the Soil Shroud project. fall 2025
 
 ![](/uploads/20250912shrud.jpg)
 
