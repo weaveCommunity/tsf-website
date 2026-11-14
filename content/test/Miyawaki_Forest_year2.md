@@ -9,7 +9,7 @@ A diverse collection of bare root saplings and potted seedlings planted in the f
 
 ![](/uploads/1may2.jpg)
 
-![](/uploads/2june-1.jpg)
+![](/uploads/2june-1-1.jpg)
 
 ![](/uploads/3july1.jpg)
 
@@ -17,11 +17,17 @@ A diverse collection of bare root saplings and potted seedlings planted in the f
 
 ![](/uploads/5aug25.jpg)
 
-By October 19, when we celebrated the miniforest's first birthday, the dancers were easily visible above the saplings.
+### By October 19, when we celebrated the miniforest's first birthday, the dancers were easily visible above the saplings.
 
 ![](/uploads/miyawaki-birthday-dance.jpg)
 
+Here are photos a year later, October 2026.
 
+
+
+&nbsp;
+
+&nbsp;
 
 ### The Soil Shroud is a collaborative project between communities of microbe and human artists. 
 
