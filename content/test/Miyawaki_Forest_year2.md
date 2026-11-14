@@ -3,13 +3,19 @@ title = 'The Miyawaki Miniforest growing up'
 summary = "After sleeping through its first winter, the miniforest woke up in April, 2025, and we recorded its growth.  In the fall, we collaborated with its soil microbes to embellish a shroud and celebrated its first birthday with music, dance and cupcakes, and also planted the first saplings to start the hilltop hedgerow.  In April 2026, the miniforest was a destination for Cornell's Earth Symposium, and in August Tompkins County Master gardeners visited. They noticed that trees in one area were especially tall.  We wondered whether the different soil treatments we used on planting day had affected the growth of the trees."
 banner = '/uploads/20261028164515.webp'
 +++
-What began as bare root saplings and potted seedlings when planted in the fall, put down roots over the winter and sent up new shoots in the spring. 
+A diverse collection of bare root saplings and potted seedlings planted in the fall put down roots over the winter and sent up new shoots in the spring. Here's what that looked like month by month. We used Gemini to make a composite photo from the hourly camera shots.
 
-/
+![](/uploads/1may2.jpg)
 
- slides for the first season of growth are at this site  [https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8](https://photos.app.goo.gl/7FQT4mTSdrf6PoRS8)
+![](/uploads/2june-1.jpg)
 
-can they be displayed as a video or slideshow?  
+![](/uploads/3july1.jpg)
+
+![](/uploads/4july26.jpg)
+
+![](/uploads/5aug25.jpg)
+
+By October, when we celebrated the miniforest's first birthday, the dancers were easily visible above the saplings.
 
 2. Soil factory microbes contributed to the Soil Shroud project. fall 2025
 
