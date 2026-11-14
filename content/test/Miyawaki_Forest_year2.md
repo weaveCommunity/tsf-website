@@ -21,13 +21,13 @@ A diverse collection of bare root saplings and potted seedlings planted in the f
 
 ![](/uploads/miyawaki-birthday-dance.jpg)
 
-Here are photos a year later, October 2026.
-
 
 
 &nbsp;
 
-&nbsp;
+![](/uploads/20261026mulching-1.jpg)
+
+
 
 ### The Soil Shroud is a collaborative project between communities of microbe and human artists. 
 
@@ -43,25 +43,29 @@ Cotton squares were dampeed, rolled up and buried in each section of the minifor
 
 
 
-![](/uploads/matter-of-earth-7.jpg)
+![](/uploads/earthsymposiumjpg.jpg)
+
+
 
 The [script for this tour](https://docs.google.com/document/d/1eXcWxwDBso0KCPnxykJyIYQthMM9odAZ/edit?usp=drive_link&ouid=114497852364559428583&rtpof=true&sd=true) riffs on themes described by Professor Platt: the Gayogo̱hó:nǫ naming of the trees in their forests, and the superseding Latin genus and species names introduced by Linnaeus in the 18th century, became the universal scientific nomenclature as the land itself was taken away from the indigenous forest guardians. Stephen Henhawk, Gayogohono Wolf Clan, has returned to his ancestor’s homeland bringing back the names these native trees and recounting stories about them in [The Standing Living Forest](https://www.treesuptompkins.org/the-standing-living-forest) project.
 
-### Celebration of the miniforest's 2nd birthday: measuring and comparing growth in each section of the forest.
+### Celebration of the miniforest's 2nd birthday: measuring and comparing growth in each section of the forest
 
-The miniforest is divided into four sections, each with a different soil amendment.
+![](/uploads/oct26-large.jpg)
 
-Section 1 had no amendments.
+The miniforest was aglow with fall colors for its second birthday celebration, and trees had grown noticeably taller since last year, especially on the left side. The miniforest had been divided into four sections, each given a different soil amendment on planting day in 2024.
 
-Section 2 had compost from the Town of Ithaca. 
+Section 1, next to Caitlynn, had no amendments.
 
-Section 3 had compost + biochar.
+Section 2, toward the middle, had compost from the Town of Ithaca. 
 
-Section 4 had a living inoculum from Web of Life that was cultured on wood chips and applied around the roots as they were planted.  
+Section 3, on the left in the back, had compost + biochar.
 
-In fall 2026 we noticed that the trees in section 4 looked taller than those in the other sections. We decided to measure the heights of four tree species, chosen because they had been planted from pots and had been grown under similar conditions at White Oak nursery. (Most of the other trees were planted as bare root saplings that had been stored in bundles in soil over the summer.)
+Section 4, on the left in front, had a living inoculum from Web of Life that was cultured on wood chips and applied around the roots as they were planted.  
 
-The 4 charts below show the heights of each tree sorted by the sections. For all four species trees in section 4 were, on average, slightly taller than trees in the other sections.  However, some individuals of both birch and hackberry in sections 2 and 3 achieved the same height as some in section 4.  Both persimmon and basswood grew taller in section 2 (compost) than in section 3, (compost + biochar). 
+All the sections have the same mix of species. You can see that trees on the left (section 4) look taller than those in the other sections. We decided to measure the heights of four tree species, chosen because they had been planted from pots and had been grown under similar conditions at White Oak nursery. (Most of the other trees were planted as bare root saplings that had been stored in bundles in soil over the summer.)
+
+The 4 charts below show the heights of each tree sorted by the sections. The bars look about the same, but the numbers show that all four species growing in section 4 were, on average, slightly taller than those growing in the other sections.  However, some individuals of both birch and hackberry in sections 2 and 3 achieved the same height as some in section 4.  Both persimmon and basswood grew taller in section 2 (compost) than in section 3, (compost + biochar). 
 
 Data from this small sample of trees suggests that something about the conditions in section 4 seemed to favor vertical growth. It may have been that lush growth of these plants produced a shadier understory and competition for light  propelled them upward. But we didn’t measure light levels in the understory, it just seemed to be more lush than in the other sections.  What other factors might be considered?  We'll keep track of these questions when the forest wakes up again in spring 2027. 
 
