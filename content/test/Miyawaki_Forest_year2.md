@@ -33,13 +33,9 @@ Cotton squares were dampeed, rolled up and buried in each section of the minifor
 
 ### **To celebrate Earthday, 2026 the Soil Factory hosted *The Matter of Earth***  “This event presents us with a wonderful opportunity to bring together scholars, artists, and performers from across Cornell, the local community, and beyond who are invested in the environmental arts and humanities,” said Classics Professor Verity Platt, a creator and organizer of the symposium.”  BIOphelia, featuring Shakespeare’s Ophelia delivering botanical information was followed the next day by a visit to the Miyawaki Forest, which is, itself, a kind of botanical performance art.
 
-
-
 ![](/uploads/earthsymposiumjpg.jpg)
 
 ### The [script for this tour](https://docs.google.com/document/d/1eXcWxwDBso0KCPnxykJyIYQthMM9odAZ/edit?usp=drive_link&ouid=114497852364559428583&rtpof=true&sd=true) riffs on themes described by Professor Platt: the Gayogo̱hó:nǫ naming of the trees in their forests, and the superseding Latin genus and species names introduced by Linnaeus in the 18th century, that became the universal scientific nomenclature, as the land itself was taken away from the indigenous forest guardians. Stephen Henhawk, Gayogo̱hó:nǫ Wolf Clan, returned to his ancestor’s homeland, bringing back the names of these native trees and recounting stories about them in [The Standing Living Forest](https://www.treesuptompkins.org/the-standing-living-forest) project.
-
-
 
 ### Celebration of the miniforest's 2nd birthday: measuring and comparing growth in each section of the forest
 
@@ -71,7 +67,7 @@ Data from this small sample of trees suggests that something about the condition
 
 ![](/uploads/persimmon.png)
 
-### As the season grew colder and darker, the miniforest was tucked in for the winter. 
+### As the season grew colder and darker, the miniforest was tucked in for the winter.
 
 ![](/uploads/20261026mulching-1.jpg)
 
