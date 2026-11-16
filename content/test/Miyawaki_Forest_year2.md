@@ -37,9 +37,9 @@ Cotton squares were dampeed, rolled up and buried in each section of the minifor
 
 ![](/uploads/earthsymposiumjpg.jpg)
 
+### The [script for this tour](https://docs.google.com/document/d/1eXcWxwDBso0KCPnxykJyIYQthMM9odAZ/edit?usp=drive_link&ouid=114497852364559428583&rtpof=true&sd=true) riffs on themes described by Professor Platt: the Gayogo̱hó:nǫ naming of the trees in their forests, and the superseding Latin genus and species names introduced by Linnaeus in the 18th century, that became the universal scientific nomenclature, as the land itself was taken away from the indigenous forest guardians. Stephen Henhawk, Gayogo̱hó:nǫ Wolf Clan, returned to his ancestor’s homeland, bringing back the names of these native trees and recounting stories about them in [The Standing Living Forest](https://www.treesuptompkins.org/the-standing-living-forest) project.
 
 
-&nbsp;
 
 ### Celebration of the miniforest's 2nd birthday: measuring and comparing growth in each section of the forest
 
