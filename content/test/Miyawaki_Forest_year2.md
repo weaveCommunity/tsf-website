@@ -31,9 +31,9 @@ Cotton squares were dampeed, rolled up and buried in each section of the minifor
 
 
 
-### **To celebrate Earthday, the Soil Factory hosted *The Matter of Earth***
+### **To celebrate Earthday, 2026 the Soil Factory hosted *The Matter of Earth***
 
-“This event presents us with a wonderful opportunity to bring together scholars, artists, and performers from across Cornell, the local community, and beyond who are invested in the environmental arts and humanities,” said Classics Professor Verity Platt, a creator and organizer of the symposium.”  BIOphelia, a solo performance featuring Shakespeare’s Ophelia delivering botanical information was followed the next day by a visit to the Miyawaki Forest, which is, itself, a kind of botanical performance art.
+“This event presents us with a wonderful opportunity to bring together scholars, artists, and performers from across Cornell, the local community, and beyond who are invested in the environmental arts and humanities,” said Classics Professor Verity Platt, a creator and organizer of the symposium.”  BIOphelia, featuring Shakespeare’s Ophelia delivering botanical information was followed the next day by a visit to the Miyawaki Forest, which is, itself, a kind of botanical performance art.
 
 
 
@@ -47,7 +47,9 @@ The [script for this tour](https://docs.google.com/document/d/1eXcWxwDBso0KCPnxy
 
 ![](/uploads/oct26-large.jpg)
 
-The miniforest was aglow with fall colors for its second birthday celebration, and trees had grown noticeably taller since last year, especially on the left side. The miniforest had been divided into four sections, each given a different soil amendment on planting day in 2024.
+After two years of growth, trees had grown noticeably taller, especially on the left side. Wondered about this.
+
+The miniforest had been divided into four sections, each given a different soil amendment on planting day in 2024.
 
 Section 1, next to Caitlynn, had no amendments.
 
@@ -70,4 +72,8 @@ Data from this small sample of trees suggests that something about the condition
 ![](/uploads/hackberry.png)
 
 ![](/uploads/persimmon.png)
+
+### As the season grew colder and darker, the miniforest was tucked in for the winter. 
+
+![](/uploads/20261026mulching-1.jpg)
 
