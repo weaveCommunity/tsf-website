@@ -43,7 +43,7 @@ Cotton squares were dampeed, rolled up and buried in each section of the minifor
 
 ![](/uploads/oct26-large.jpg)
 
-After two years of growth, trees had grown noticeably taller, especially on the left side. Wondered about this.
+After two years of growth, trees had grown noticeably taller, especially on the left side. We wondered about this.
 
 The miniforest had been divided into four sections, each given a different soil amendment on planting day in 2024.
 
