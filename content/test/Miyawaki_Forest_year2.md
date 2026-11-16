@@ -29,6 +29,8 @@ Cotton squares were dampeed, rolled up and buried in each section of the minifor
 
 ![](/uploads/20250912shrud.jpg)
 
+![](/uploads/shroud.jpg)
+
 
 
 ### **To celebrate Earthday, 2026 the Soil Factory hosted *The Matter of Earth***  “This event presents us with a wonderful opportunity to bring together scholars, artists, and performers from across Cornell, the local community, and beyond who are invested in the environmental arts and humanities,” said Classics Professor Verity Platt, a creator and organizer of the symposium.”  BIOphelia, featuring Shakespeare’s Ophelia delivering botanical information was followed the next day by a visit to the Miyawaki Forest, which is, itself, a kind of botanical performance art.
