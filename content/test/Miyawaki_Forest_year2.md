@@ -1,6 +1,6 @@
 +++
 title = 'The Miyawaki Miniforest growing up'
-summary = "After sleeping through its first winter, the miniforest woke up in April, 2025, and we recorded its growth.  In the fall, we collaborated with its soil microbes to embellish a shroud and celebrated its first birthday with music, dance and cupcakes, and also planted the first saplings to start the hilltop hedgerow.  In April 2026, the miniforest was a destination for Cornell's Earth Symposium, and in August Tompkins County Master gardeners visited. They noticed that trees in one area were especially tall.  We wondered whether the different soil treatments we used on planting day had affected the growth of the trees."
+summary = "After sleeping through its first winter, the miniforest woke up in April (2025) See how it grew.  In the fall, we collaborated with its soil microbes to embellish a shroud and celebrated its first birthday with music, dance and cupcakes, and also planted the first saplings to start the hilltop hedgerow.  In April 2026, the miniforest was a destination for Cornell's Earth Symposium, and in August Tompkins County Master gardeners visited. They noticed that trees in one area seemed especially tall.  We wondered whether the different soil treatments we used when the frest was planted had affected the growth of the trees."
 banner = '/uploads/20261028164515.webp'
 +++
 ## Growing month by month
@@ -17,25 +17,19 @@ A diverse collection of bare root saplings and potted seedlings planted in the f
 
 ![](/uploads/5aug25.jpg)
 
-### By October 19, when we celebrated the miniforest's first birthday, the dancers were easily visible above the saplings.
+### On October 19, when we celebrated the miniforest's first birthday, the dancers were easily visible above the saplings.
 
 ![](/uploads/miyawaki-birthday-dance.jpg)
 
 
 
-&nbsp;
-
-![](/uploads/20261026mulching-1.jpg)
-
-
-
-### The Soil Shroud is a collaborative project between communities of microbe and human artists. 
+### The Soil Shroud is a collaborative project between communities of microbe and human artists.
 
 Cotton squares were dampeed, rolled up and buried in each section of the miniforest. Here's what this looked like when the cloth was dug up and assembled as a contribution to the Soil Shroud project. 
 
 ![](/uploads/20250912shrud.jpg)
 
-**I**
+
 
 ### **To celebrate Earthday, the Soil Factory hosted *The Matter of Earth***
 
