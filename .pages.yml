@@ -14,9 +14,9 @@ content:
     format: toml-frontmatter
     subfolders: true
     operations:
-      create: false
-      rename: false
-      delete: false
+      create: true
+      rename: true
+      delete: true
 
     exclude:
       - calendar
